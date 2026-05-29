@@ -1,0 +1,1105 @@
+name,pop,region,income,education_score,out_of_work
+Carlton in Lindrick BUA,5456,East Midlands,Higher deprivation towns,-0.533750422,NA
+Dorchester (West Dorset) BUA,19060,South West,Mid deprivation towns,1.952018749,4.184100418410042
+Ely BUA,19090,East of England,Lower deprivation towns,-1.044127985,NA
+Market Weighton BUA,6429,Yorkshire and The Humber,Lower deprivation towns,-1.249261949,NA
+Downham Market BUA,10884,East of England,Higher deprivation towns,-1.169078452,15.053763440860216
+Penrith BUA,15181,North West,Lower deprivation towns,0.84513109,7.59493670886076
+Bolsover BUA,11754,East Midlands,Higher deprivation towns,-3.717919688,11.864406779661016
+March BUA,21051,East of England,Higher deprivation towns,-2.171307159,6.808510638297872
+Southam BUA,6567,West Midlands,Lower deprivation towns,6.437661398,NA
+Royston BUA,15781,East of England,Lower deprivation towns,0.29540337,NA
+Studley BUA,6203,West Midlands,Lower deprivation towns,4.304494117,NA
+Irthlingborough BUA,7502,East Midlands,Mid deprivation towns,-4.001866891,11.956521739130435
+Freshwater BUA,7829,South East,Higher deprivation towns,-5.023115005,NA
+Barnoldswick BUA,10435,North West,Mid deprivation towns,-1.26838592,8.527131782945736
+Wirksworth BUA,5038,East Midlands,Mid deprivation towns,-1.264372252,NA
+Dalton-in-Furness BUA,7827,North West,Mid deprivation towns,-0.718396082,NA
+Bedlington BUA,16974,North East,Higher deprivation towns,-4.061010691,12.676056338028168
+Brigg BUA,6787,Yorkshire and The Humber,Higher deprivation towns,0.742113567,NA
+Widnes BUA,61464,North West,Higher deprivation towns,0.263105429,11.1716621253406
+Hethersett BUA,5520,East of England,Lower deprivation towns,1.608629917,NA
+Coningsby Airfield BUA,5021,East Midlands,Mid deprivation towns,-3.9569896,NA
+Amble BUA,6025,North East,Higher deprivation towns,-7.090910923,NA
+Skelton (Redcar and Cleveland) BUA,6535,North East,Higher deprivation towns,1.381818433,10.989010989010987
+Seaford BUA,22584,South East,Mid deprivation towns,0.183946279,5.829596412556054
+Ryhill BUA,5150,Yorkshire and The Humber,Higher deprivation towns,-3.813706933,NA
+Budleigh Salterton BUA,5185,South West,Lower deprivation towns,1.419986073,NA
+Great Dunmow BUA,7749,East of England,Lower deprivation towns,-0.309563755,NA
+Wideopen BUA,8976,North East,Mid deprivation towns,-0.955169026,NA
+Frodsham BUA,9032,North West,Lower deprivation towns,3.999734957,NA
+Rothwell BUA,7694,East Midlands,Higher deprivation towns,-6.163408673,10.416666666666668
+Chard BUA,13074,South West,Higher deprivation towns,-4.268131254,13.253012048192772
+Hook (Hart) BUA,7934,South East,Lower deprivation towns,3.860304863,NA
+Rainworth BUA,7693,East Midlands,Higher deprivation towns,-0.241286848,13.79310344827586
+Beverley BUA,30587,Yorkshire and The Humber,Lower deprivation towns,2.763057391,8.771929824561402
+Haverhill BUA,27041,East of England,Mid deprivation towns,-2.564226331,7.453416149068323
+St Leonards BUA,5984,South West,Lower deprivation towns,6.610611497,NA
+Upton (Wakefield) BUA,5874,Yorkshire and The Humber,Higher deprivation towns,-0.513536679,NA
+Wincanton BUA,5435,South West,Mid deprivation towns,-6.01236232,NA
+Chinnor BUA,5473,South East,Lower deprivation towns,-0.164720472,NA
+Thurcroft BUA,5115,Yorkshire and The Humber,Higher deprivation towns,-6.371799113,16.129032258064516
+Exmouth BUA,34432,South West,Mid deprivation towns,-3.325032651,6.169665809768637
+Bolton-le-Sands BUA,6995,North West,Lower deprivation towns,6.357287162,NA
+Crediton BUA,7835,South West,Mid deprivation towns,-1.812283999,NA
+Henley-on-Thames BUA,11494,South East,Lower deprivation towns,3.362878498,NA
+Snodland BUA,10211,South East,Higher deprivation towns,-1.970367969,10.4
+Meltham BUA,7836,Yorkshire and The Humber,Mid deprivation towns,5.804185058,NA
+Minehead BUA,11981,South West,Higher deprivation towns,-2.847094207,NA
+Daventry BUA,23879,East Midlands,Mid deprivation towns,-3.297142446,8.253968253968253
+Keyworth BUA,6733,East Midlands,Lower deprivation towns,5.628841984,NA
+Deal BUA,30555,South East,Higher deprivation towns,-3.141037157,10
+Hythe BUA,20201,South East,Lower deprivation towns,-1.985380107,9.871244635193133
+Ibstock BUA,5650,East Midlands,Mid deprivation towns,-2.899667069,NA
+Market Deeping BUA,13574,East Midlands,Lower deprivation towns,3.507476118,NA
+Horncastle BUA,6815,East Midlands,Higher deprivation towns,3.418697624,NA
+Glastonbury BUA,8471,South West,Higher deprivation towns,-0.550202426,NA
+Witham BUA,25353,East of England,Higher deprivation towns,-3.92266164,11.851851851851851
+Holmes Chapel BUA,5605,North West,Lower deprivation towns,6.657041755,NA
+Whaley Bridge BUA,5140,East Midlands,Lower deprivation towns,3.806320645,NA
+Gerrards Cross BUA,20633,South East,Lower deprivation towns,9.95812099,NA
+Ulverston BUA,11356,North West,Lower deprivation towns,0.193445297,10.256410256410255
+Chapeltown BUA,23056,Yorkshire and The Humber,Mid deprivation towns,1.220084116,10.037174721189592
+Hornsea BUA,8432,Yorkshire and The Humber,Higher deprivation towns,1.573747159,NA
+Wem BUA,5870,West Midlands,Mid deprivation towns,2.12673052,NA
+Loughborough BUA,59932,East Midlands,Mid deprivation towns,-1.853352661,6.639839034205232
+Maghull BUA,26997,North West,Lower deprivation towns,3.747497559,5.263157894736842
+Southport BUA,91703,North West,Higher deprivation towns,2.319207046,7.263681592039801
+Thornbury BUA,11687,South West,Lower deprivation towns,3.299333602,NA
+Street BUA,12911,South West,Mid deprivation towns,1.190595416,8.904109589041095
+Bishop's Waltham BUA,6275,South East,Lower deprivation towns,-2.147693195,NA
+Frome BUA,26203,South West,Higher deprivation towns,-2.829698506,8.51063829787234
+Bagshot BUA,5430,South East,Lower deprivation towns,1.749858286,NA
+Ross-on-Wye BUA,10582,West Midlands,Higher deprivation towns,-2.967170753,11.11111111111111
+Storrington BUA,8618,South East,Lower deprivation towns,4.608072865,NA
+Alnwick BUA,8116,North East,Higher deprivation towns,-1.469337199,NA
+Billinge BUA,5896,North West,Lower deprivation towns,3.528191799,NA
+Hailsham BUA,19977,South East,Higher deprivation towns,-4.105393361,6.578947368421052
+Richmond BUA,8413,Yorkshire and The Humber,Lower deprivation towns,4.578194903,NA
+Cheddar BUA,5199,South West,Lower deprivation towns,3.808250711,NA
+Oakley (Basingstoke and Deane) BUA,5086,South East,Lower deprivation towns,7.015299545,NA
+Mablethorpe BUA,12531,East Midlands,Higher deprivation towns,-2.941145442,14.000000000000002
+Lutterworth BUA,9907,East Midlands,Lower deprivation towns,-0.068426354,NA
+Sawston BUA,7275,East of England,Lower deprivation towns,1.187961052,NA
+Sidmouth BUA,12569,South West,Lower deprivation towns,1.241814934,NA
+Epping BUA,10289,East of England,Lower deprivation towns,3.11249282,NA
+Torpoint BUA,7717,South West,Higher deprivation towns,-0.715392574,NA
+Hilton (South Derbyshire) BUA,7714,East Midlands,Lower deprivation towns,1.067191916,NA
+Burghfield Common BUA,5932,South East,Lower deprivation towns,1.792829385,NA
+Buckingham BUA,12890,South East,Lower deprivation towns,5.494822908,NA
+Netley BUA,6338,South East,Lower deprivation towns,-2.936731906,NA
+Brackley BUA,13018,East Midlands,Lower deprivation towns,2.148885342,NA
+Ivybridge BUA,11851,South West,Lower deprivation towns,2.840554708,NA
+Marske-by-the-Sea BUA,8282,North East,Mid deprivation towns,1.13237635,NA
+Denmead BUA,6107,South East,Lower deprivation towns,2.288312691,NA
+Paddock Wood BUA,7840,South East,Lower deprivation towns,-0.320502188,NA
+Garforth BUA,14838,Yorkshire and The Humber,Lower deprivation towns,4.63527406,NA
+Northallerton BUA,16832,Yorkshire and The Humber,Mid deprivation towns,-1.4375767,12.865497076023392
+Tenterden BUA,7118,South East,Lower deprivation towns,-0.357764516,NA
+Market Warsop BUA,9018,East Midlands,Higher deprivation towns,-2.483771314,13.333333333333334
+Tadcaster BUA,6480,Yorkshire and The Humber,Lower deprivation towns,1.589070877,NA
+Long Ashton BUA,5254,South West,Lower deprivation towns,1.134955613,NA
+Hayle BUA,8210,South West,Higher deprivation towns,-0.8318962,NA
+Conisbrough BUA,15934,Yorkshire and The Humber,Higher deprivation towns,-6.040882817,19
+Nantwich BUA,17226,North West,Lower deprivation towns,2.976086637,NA
+Market Drayton BUA,11773,West Midlands,Higher deprivation towns,-5.454821634,16.05839416058394
+Portishead BUA,23699,South West,Lower deprivation towns,3.951416094,NA
+Crofton BUA,5258,Yorkshire and The Humber,Lower deprivation towns,1.821911821,NA
+Wotton-under-Edge BUA,5627,South West,Lower deprivation towns,2.542777863,NA
+Marple BUA,18241,North West,Lower deprivation towns,5.867008254,NA
+Southwell BUA,6757,East Midlands,Lower deprivation towns,8.266077082,NA
+Dawlish BUA,11312,South West,Higher deprivation towns,-4.036973003,10.619469026548671
+Dronfield BUA,21124,East Midlands,Lower deprivation towns,4.983969265,NA
+Wootton Bassett BUA,11265,South West,Lower deprivation towns,1.30782494,NA
+Hawkinge BUA,8002,South East,Mid deprivation towns,0.094829376,8.771929824561402
+Peasedown St John BUA,6269,South West,Mid deprivation towns,-2.346464836,NA
+New Waltham BUA,5613,Yorkshire and The Humber,Lower deprivation towns,2.198211806,NA
+Dinnington (Rotherham) BUA,19860,Yorkshire and The Humber,Higher deprivation towns,-0.775947056,11.023622047244094
+Stansted Mountfitchet BUA,6669,East of England,Lower deprivation towns,0.866802687,NA
+Balsall Common BUA,7039,West Midlands,Lower deprivation towns,7.657705361,NA
+Bayston Hill BUA,5079,West Midlands,Lower deprivation towns,4.100819556,NA
+Faringdon BUA,7121,South East,Lower deprivation towns,1.29274296,NA
+Weaverham BUA,6087,North West,Higher deprivation towns,-0.393862219,NA
+Ilminster BUA,5808,South West,Mid deprivation towns,-2.585601614,NA
+Ferryhill BUA,9805,North East,Higher deprivation towns,-3.049247235,20.51282051282051
+Raunds BUA,8641,East Midlands,Lower deprivation towns,-3.532408517,NA
+Halstead BUA,11906,East of England,Mid deprivation towns,-4.033132508,NA
+Newport (Isle of Wight) BUA,24884,South East,Higher deprivation towns,-4.980575217,9.271523178807946
+Ponteland BUA,10135,North East,Lower deprivation towns,5.056930313,NA
+Measham BUA,5209,East Midlands,Mid deprivation towns,-3.336777929,NA
+Oakham BUA,10922,East Midlands,Lower deprivation towns,2.036418475,NA
+Brotton BUA,5394,North East,Higher deprivation towns,0.045950752,17.647058823529413
+Okehampton BUA,7647,South West,Higher deprivation towns,-1.362611073,NA
+Great Wakering BUA,5400,East of England,Mid deprivation towns,-0.372545744,NA
+Clitheroe BUA,14765,North West,Lower deprivation towns,3.287213662,9.146341463414634
+Helsby BUA,5166,North West,Lower deprivation towns,8.52407035,NA
+Petersfield BUA,14974,South East,Lower deprivation towns,2.742343958,NA
+Louth BUA,16419,East Midlands,Higher deprivation towns,-4.090837485,11.41304347826087
+Ashington (Northumberland) BUA,27670,North East,Higher deprivation towns,-4.708610354,17.52873563218391
+Newmarket BUA,20384,East of England,Lower deprivation towns,-3.130722094,NA
+Culcheth BUA,6708,North West,Lower deprivation towns,5.98289748,NA
+Heswall BUA,29789,North West,Lower deprivation towns,6.668239188,5.079365079365079
+Sheerness BUA,11938,South East,Higher deprivation towns,-9.79178081,21.875
+Driffield BUA,13080,Yorkshire and The Humber,Lower deprivation towns,0.005535486,NA
+Retford BUA,22023,East Midlands,Higher deprivation towns,-2.510765203,13.191489361702128
+Radcliffe on Trent BUA,7510,East Midlands,Lower deprivation towns,4.545060749,NA
+Ruskington BUA,5637,East Midlands,Mid deprivation towns,4.080634357,NA
+Wigton BUA,5831,North West,Mid deprivation towns,0.040913958,NA
+Leominster BUA,10938,West Midlands,Higher deprivation towns,-5.341426577,8.849557522123893
+Bodmin BUA,14614,South West,Higher deprivation towns,-2.329007892,10.92896174863388
+Caister-on-Sea BUA,8901,East of England,Higher deprivation towns,-1.183723077,NA
+Devizes BUA,18064,South West,Mid deprivation towns,-3.329351471,8.636363636363637
+Cotgrave BUA,7203,East Midlands,Mid deprivation towns,-0.056459409,NA
+Wingate BUA,5134,North East,Higher deprivation towns,-0.543272318,17.543859649122805
+Elland BUA,15625,Yorkshire and The Humber,Higher deprivation towns,0.274798841,11.235955056179774
+Bishop's Stortford BUA,37838,East of England,Lower deprivation towns,6.420747235,2.7139874739039667
+Kenilworth BUA,22413,West Midlands,Lower deprivation towns,7.796484011,NA
+Hungerford BUA,5100,South East,Lower deprivation towns,0.082611978,NA
+Countesthorpe BUA,6377,East Midlands,Lower deprivation towns,6.56252782,NA
+Easington (County Durham) BUA,7193,North East,Higher deprivation towns,-2.055701844,15.151515151515152
+New Romney BUA,9674,South East,Higher deprivation towns,-4.694684002,NA
+Highworth BUA,7886,South West,Lower deprivation towns,1.715773536,NA
+Washingborough BUA,6463,East Midlands,Lower deprivation towns,1.230205901,NA
+South Ockendon BUA,19460,East of England,Higher deprivation towns,-3.326532717,8.778625954198473
+Chipping Norton BUA,5719,South East,Lower deprivation towns,0.645531654,NA
+West Chiltington Common BUA,7474,South East,Lower deprivation towns,2.955442566,NA
+New Rossington BUA,13537,Yorkshire and The Humber,Higher deprivation towns,-4.46402942,18.354430379746837
+Brightlingsea BUA,8076,East of England,Mid deprivation towns,-0.124779673,NA
+Stanford-le-Hope BUA,28725,East of England,Mid deprivation towns,-1.519621899,8.913649025069638
+Yeovil BUA,45784,South West,Higher deprivation towns,-2.566804564,7.950530035335689
+North Baddesley BUA,6823,South East,Lower deprivation towns,2.191094304,NA
+Amesbury BUA,10116,South West,Lower deprivation towns,-2.411504279,NA
+Crook BUA,9498,North East,Higher deprivation towns,-0.980249672,19.090909090909093
+Shipston-on-Stour BUA,5038,West Midlands,Lower deprivation towns,1.465412296,NA
+Maldon BUA,21462,East of England,Mid deprivation towns,-0.334002038,9.15492957746479
+Sudbury BUA,22213,East of England,Mid deprivation towns,-5.084834842,8.666666666666668
+Brandon (County Durham) BUA,9566,North East,Higher deprivation towns,0.537506979,12.962962962962962
+Ormskirk BUA,24073,North West,Lower deprivation towns,6.233039216,6.334841628959276
+Blyth (Northumberland) BUA,37339,North East,Higher deprivation towns,-6.357467729,18.58407079646018
+Holbeach BUA,7914,East Midlands,Higher deprivation towns,-1.749072267,NA
+East Horsley BUA,5866,South East,Lower deprivation towns,10.77155677,NA
+Burwell BUA,6309,East of England,Lower deprivation towns,4.403636341,NA
+Darlington BUA,92363,North East,Higher deprivation towns,-0.800938807,13.492822966507177
+Axminster BUA,5761,South West,Mid deprivation towns,-2.660956487,NA
+Looe BUA,5112,South West,Higher deprivation towns,-0.038425825,NA
+Southwater BUA,8692,South East,Lower deprivation towns,4.609741018,NA
+Cranfield BUA,5369,East of England,Lower deprivation towns,2.879243467,NA
+Norton Canes BUA,7479,West Midlands,Higher deprivation towns,-6.207951854,12.5
+Newquay BUA,20189,South West,Higher deprivation towns,-0.421589109,6.074766355140187
+Hemsworth BUA,9246,Yorkshire and The Humber,Higher deprivation towns,-6.653926141,12.280701754385964
+Lightwater BUA,6791,South East,Lower deprivation towns,6.774061908,NA
+Bewdley BUA,8571,West Midlands,Mid deprivation towns,2.179427199,NA
+Sawtry BUA,5252,East of England,Lower deprivation towns,1.457590086,NA
+Millom BUA,5980,North West,Higher deprivation towns,-6.915157397,12.5
+Thirsk BUA,9953,Yorkshire and The Humber,Mid deprivation towns,-1.764391177,NA
+Huntingdon BUA,23937,East of England,Mid deprivation towns,-4.352786938,9.090909090909092
+Shirebrook BUA,10885,East Midlands,Higher deprivation towns,-4.05910281,10.236220472440944
+Sherborne BUA,9523,South West,Mid deprivation towns,-4.049786694,NA
+Silsden BUA,7912,Yorkshire and The Humber,Lower deprivation towns,3.181615951,NA
+Willington (County Durham) BUA,6633,North East,Higher deprivation towns,-1.466742587,24.637681159420293
+South Molton BUA,5108,South West,Higher deprivation towns,-6.711417914,NA
+Honiton BUA,11483,South West,Mid deprivation towns,-2.805766898,NA
+Chippenham (Wiltshire) BUA,35800,South West,Lower deprivation towns,1.023815376,5.522682445759369
+Gillingham (North Dorset) BUA,11278,South West,Lower deprivation towns,1.321650638,NA
+Redbourn BUA,5113,East of England,Lower deprivation towns,7.172221185,NA
+West Mersea BUA,7057,East of England,Lower deprivation towns,0.701730546,NA
+Tring BUA,11929,East of England,Lower deprivation towns,5.649712778,NA
+Guisborough BUA,16979,North East,Mid deprivation towns,0.599919251,13.432835820895525
+Olney BUA,6477,South East,Lower deprivation towns,10.74972706,NA
+New Alresford BUA,5431,South East,Lower deprivation towns,2.585660421,NA
+Marchwood BUA,6141,South East,Lower deprivation towns,2.021652879,NA
+Rugeley BUA,24033,West Midlands,Higher deprivation towns,-3.750785762,8.904109589041095
+Saffron Walden BUA,15210,East of England,Lower deprivation towns,3.951955622,NA
+Knutsford BUA,13191,North West,Lower deprivation towns,3.730134,NA
+Shepley BUA,5444,Yorkshire and The Humber,Lower deprivation towns,3.283891891,NA
+Biggleswade BUA,16551,East of England,Lower deprivation towns,-1.06055732,6.306306306306306
+Ripon BUA,16363,Yorkshire and The Humber,Lower deprivation towns,2.456561847,NA
+Selsey BUA,10550,South East,Mid deprivation towns,-4.474723195,9.90990990990991
+Ilfracombe BUA,11184,South West,Higher deprivation towns,0.559264105,7.518796992481203
+Saltburn-by-the-Sea BUA,5958,North East,Higher deprivation towns,-0.395280266,NA
+Ventnor BUA,5976,South East,Higher deprivation towns,-3.147683679,NA
+Newton Aycliffe BUA,25964,North East,Higher deprivation towns,-1.482598265,17.846153846153847
+Newbiggin-by-the-Sea BUA,6308,North East,Higher deprivation towns,-9.622821465,NA
+Filey BUA,6530,Yorkshire and The Humber,Higher deprivation towns,-2.13977095,NA
+Hoo St Werburgh BUA,6113,South East,Mid deprivation towns,-4.418054903,10.75268817204301
+Arlesey BUA,5584,East of England,Lower deprivation towns,-2.725592731,NA
+South Woodham Ferrers BUA,16453,East of England,Lower deprivation towns,2.153188205,NA
+Earls Barton BUA,5387,East Midlands,Lower deprivation towns,1.709309858,NA
+Lichfield BUA,32877,West Midlands,Mid deprivation towns,2.174353696,5.989583333333334
+Calverton BUA,6868,East Midlands,Lower deprivation towns,1.821299858,NA
+Blackfield BUA,13712,South East,Mid deprivation towns,-3.872906722,6.790123456790123
+Yaxley BUA,9174,East of England,Lower deprivation towns,-0.383765608,NA
+Lymm BUA,11608,North West,Lower deprivation towns,8.134159931,6.802721088435375
+Dereham BUA,20651,East of England,Mid deprivation towns,-4.173643774,6.986899563318777
+Shrewsbury BUA,71715,West Midlands,Mid deprivation towns,0.574837261,8.794326241134751
+Witley BUA,6437,South East,Lower deprivation towns,3.081454678,NA
+Newport (Telford and Wrekin) BUA,12741,West Midlands,Lower deprivation towns,3.790062821,8.275862068965518
+Beaconsfield BUA,13797,South East,Lower deprivation towns,8.2794322910000009,NA
+Croesowallt BUA,18743,West Midlands,Higher deprivation towns,-2.606345723,10.559006211180124
+Chapel-en-le-Frith BUA,6598,East Midlands,Lower deprivation towns,2.545779792,NA
+Longridge BUA,7526,North West,Lower deprivation towns,2.03595631,NA
+Verwood BUA,13360,South West,Lower deprivation towns,0.650819418,NA
+Whitchurch (Shropshire) BUA,9710,West Midlands,Higher deprivation towns,-1.702726769,NA
+Tidworth BUA,9174,South West,Lower deprivation towns,-6.794033365,NA
+Bracebridge Heath BUA,5656,East Midlands,Lower deprivation towns,7.11604934,NA
+Barton-upon-Humber BUA,11066,Yorkshire and The Humber,Higher deprivation towns,-1.359109482,8.870967741935484
+Aylsham BUA,6016,East of England,Mid deprivation towns,-2.459003441,NA
+Poringland BUA,5132,East of England,Lower deprivation towns,-0.295070798,NA
+Manningtree BUA,5696,East of England,Lower deprivation towns,-0.632590012,NA
+Keynsham BUA,15641,South West,Mid deprivation towns,2.400008357,NA
+Sleaford BUA,17359,East Midlands,Mid deprivation towns,0.01403388,10.619469026548671
+Barrow-in-Furness BUA,45865,North West,Higher deprivation towns,-4.450589183,16.93404634581105
+Wellesbourne BUA,5849,West Midlands,Lower deprivation towns,4.888089933,NA
+Clowne BUA,7590,East Midlands,Higher deprivation towns,1.12736806,16.455696202531644
+Chatteris BUA,10298,East of England,Higher deprivation towns,-1.868861258,11.666666666666666
+Brixham BUA,16693,South West,Higher deprivation towns,-4.391985684,8.620689655172415
+Murton (County Durham) BUA,7413,North East,Higher deprivation towns,-2.61264338,NA
+Tiverton BUA,19544,South West,Higher deprivation towns,-3.828427778,10.091743119266056
+Hurstpierpoint BUA,12730,South East,Lower deprivation towns,2.081328337,NA
+South Hayling BUA,15485,South East,Mid deprivation towns,-2.251562259,8.59375
+Egremont BUA,6222,North West,Higher deprivation towns,-0.110993506,18.29268292682927
+Swaffham BUA,7258,East of England,Higher deprivation towns,-3.048500521,NA
+Ledbury BUA,8862,West Midlands,Lower deprivation towns,-2.599414593,NA
+Skipton BUA,14623,Yorkshire and The Humber,Mid deprivation towns,0.242248857,8.108108108108109
+Bradford on Avon BUA,9149,South West,Lower deprivation towns,1.129926322,NA
+Oundle BUA,5735,East Midlands,Lower deprivation towns,0.998725151,NA
+Sherburn in Elmet BUA,6657,Yorkshire and The Humber,Lower deprivation towns,-1.054967497,NA
+Ludlow BUA,10515,West Midlands,Higher deprivation towns,-3.735958141,NA
+Bingham BUA,9131,East Midlands,Lower deprivation towns,5.9158806330000004,NA
+Lewes BUA,17297,South East,Mid deprivation towns,4.118350123,7.368421052631578
+Benson BUA,5802,South East,Lower deprivation towns,5.522860023,NA
+Liphook BUA,6480,South East,Lower deprivation towns,3.980502734,NA
+Haxby BUA,11894,Yorkshire and The Humber,Lower deprivation towns,4.051929603,NA
+Shaftesbury BUA,7314,South West,Mid deprivation towns,0.223261118,NA
+Bungay BUA,5127,East of England,Mid deprivation towns,-4.910679677,NA
+Calne BUA,17274,South West,Mid deprivation towns,-0.53407729,7.555555555555555
+King's Hill BUA,7459,South East,Lower deprivation towns,5.529242273,NA
+Cobham (Elmbridge) BUA,17273,South East,Lower deprivation towns,-0.216811374,NA
+Beccles BUA,13868,East of England,Higher deprivation towns,-1.107627457,11.25
+Tiptree BUA,9182,East of England,Lower deprivation towns,-0.485494354,NA
+Peacehaven BUA,18579,South East,Higher deprivation towns,-2.223980389,8.16326530612245
+Tetbury BUA,5472,South West,Lower deprivation towns,-1.155313769,NA
+Leighton Buzzard BUA,37469,East of England,Lower deprivation towns,-0.613976223,7.105263157894736
+Broughton Astley BUA,8940,East Midlands,Lower deprivation towns,2.739689191,NA
+Whittlesey BUA,12745,East of England,Higher deprivation towns,-2.741101517,6.289308176100629
+Brandon (Forest Heath) BUA,9145,East of England,Mid deprivation towns,-4.617306675,NA
+Cottenham BUA,5903,East of England,Lower deprivation towns,2.255576163,NA
+Bourne BUA,13961,East Midlands,Lower deprivation towns,3.667706727,NA
+Staplehurst BUA,5051,South East,Lower deprivation towns,1.536195874,NA
+Cheadle BUA,11404,West Midlands,Mid deprivation towns,0.96055605,NA
+Brixworth BUA,5228,East Midlands,Lower deprivation towns,4.239730507,NA
+Chipping Ongar BUA,6093,East of England,Mid deprivation towns,-0.055451779,NA
+Fleetwood BUA,25359,North West,Higher deprivation towns,-3.177517481,12.698412698412698
+Shildon BUA,9976,North East,Higher deprivation towns,-3.879778293,17.391304347826086
+Hemsby BUA,5522,East of England,Higher deprivation towns,-0.950998707,NA
+Ashby-de-la-Zouch BUA,12370,East Midlands,Lower deprivation towns,4.828025815,NA
+Wadebridge BUA,6599,South West,Mid deprivation towns,-0.73465615,NA
+Harpenden BUA,30240,East of England,Lower deprivation towns,11.03279063,3.389830508474576
+Halesworth BUA,5558,East of England,Higher deprivation towns,-5.326206889,NA
+Attleborough BUA,10549,East of England,Lower deprivation towns,-3.009828323,NA
+Fleet BUA,38726,South East,Lower deprivation towns,6.540699064,2.272727272727273
+Ramsey (Huntingdonshire) BUA,7829,East of England,Mid deprivation towns,-0.687678695,NA
+Wantage BUA,18505,South East,Lower deprivation towns,1.21344731,4.291845493562231
+East Leake BUA,6337,East Midlands,Lower deprivation towns,4.370325265,NA
+Askern BUA,5570,Yorkshire and The Humber,Higher deprivation towns,-5.129770739,22
+Long Sutton (South Holland) BUA,5161,East Midlands,Mid deprivation towns,-2.660142264,NA
+Battle BUA,6054,South East,Lower deprivation towns,3.50519266,NA
+New Ollerton BUA,9840,East Midlands,Higher deprivation towns,-9.394098568,17.322834645669293
+Uttoxeter BUA,13089,West Midlands,Lower deprivation towns,-0.665013634,5.524861878453039
+Bircotes BUA,7948,East Midlands,Higher deprivation towns,-5.142988334,11.224489795918368
+North Walsham BUA,12463,East of England,Higher deprivation towns,-5.847621161,11.510791366906476
+Seaton (East Devon) BUA,8413,South West,Mid deprivation towns,1.769499553,NA
+Stotfold BUA,6838,East of England,Lower deprivation towns,0.667754595,NA
+Shepshed BUA,13505,East Midlands,Lower deprivation towns,-4.193792492,8.955223880597014
+Clacton-on-Sea BUA,50548,East of England,Higher deprivation towns,-4.441538623,13.23024054982818
+Whitby BUA,13213,Yorkshire and The Humber,Higher deprivation towns,0.232283025,NA
+Ashbourne BUA,8377,East Midlands,Lower deprivation towns,1.924015748,NA
+Cheltenham BUA,116447,South West,Mid deprivation towns,2.140563927,6.325581395348837
+Congleton BUA,26178,North West,Mid deprivation towns,2.579924913,7.984790874524715
+Rishton BUA,6625,North West,Higher deprivation towns,-4.129847271,NA
+Todmorden BUA,11690,Yorkshire and The Humber,Higher deprivation towns,-0.606301025,14.615384615384617
+Stocksbridge BUA,13069,Yorkshire and The Humber,Mid deprivation towns,-0.017333666,9.803921568627452
+Shifnal BUA,6240,West Midlands,Mid deprivation towns,3.076387757,NA
+Twyford (Wokingham) BUA,7533,South East,Lower deprivation towns,4.095622523,NA
+Spennymoor BUA,17766,North East,Higher deprivation towns,-2.615492732,15.196078431372548
+Stubbington BUA,24644,South East,Lower deprivation towns,4.055957263,NA
+Alton (East Hampshire) BUA,18261,South East,Lower deprivation towns,1.06965726,NA
+Radlett BUA,8163,East of England,Lower deprivation towns,7.946548037,NA
+Withernsea BUA,6159,Yorkshire and The Humber,Higher deprivation towns,-7.568628303,17.647058823529413
+Neston BUA,15064,North West,Lower deprivation towns,2.282558794,NA
+Middlewich BUA,13595,North West,Lower deprivation towns,3.230994333,NA
+Edenbridge BUA,8172,South East,Mid deprivation towns,-2.828181774,NA
+Maryport BUA,9555,North West,Higher deprivation towns,-6.375848442,22.60869565217391
+Wymondham (South Norfolk) BUA,13587,East of England,Lower deprivation towns,4.512009379,6.9364161849710975
+Creswell BUA,5417,East Midlands,Higher deprivation towns,-6.492351722,20.967741935483872
+Saltash BUA,15566,South West,Mid deprivation towns,2.222929796,5.913978494623656
+Potters Bar BUA,22639,East of England,Lower deprivation towns,3.321137101,NA
+Pembury BUA,6128,South East,Lower deprivation towns,2.892892434,NA
+Clevedon BUA,21002,South West,Lower deprivation towns,2.669953734,4.784688995215311
+Anstey BUA,6528,East Midlands,Lower deprivation towns,0.783062857,NA
+Great Torrington BUA,5714,South West,Higher deprivation towns,-5.664436036,NA
+Wroughton BUA,6474,South West,Lower deprivation towns,0.490617302,NA
+Tavistock BUA,12280,South West,Mid deprivation towns,0.701047898,NA
+Codsall BUA,11673,West Midlands,Lower deprivation towns,2.825355496,NA
+Cockermouth BUA,9146,North West,Lower deprivation towns,2.469207502,NA
+Blandford Forum BUA,11694,South West,Mid deprivation towns,-3.707811845,NA
+Sittingbourne BUA,48948,South East,Higher deprivation towns,-1.827642336,9.72447325769854
+Buxton (High Peak) BUA,22115,East Midlands,Mid deprivation towns,0.159995512,7.116104868913857
+Newhaven BUA,13222,South East,Higher deprivation towns,-5.590413957,10.897435897435898
+Hadleigh BUA,8150,East of England,Lower deprivation towns,-0.951042944,NA
+Thetford BUA,24833,East of England,Higher deprivation towns,-6.093760141,7.903780068728522
+Billingshurst BUA,6911,South East,Lower deprivation towns,0.504834046,NA
+Annfield Plain BUA,10406,North East,Higher deprivation towns,-1.9293064,19.642857142857142
+Emsworth BUA,18777,South East,Lower deprivation towns,0.573618012,5.555555555555555
+Bognor Regis BUA,63885,South East,Mid deprivation towns,-3.940363044,6.2015503875969
+Tarleton BUA,8582,North West,Lower deprivation towns,4.36478605,NA
+Westbury (Wiltshire) BUA,16989,South West,Mid deprivation towns,-0.854759647,NA
+Strensall BUA,6047,Yorkshire and The Humber,Lower deprivation towns,5.567106097,NA
+Liss BUA,6248,South East,Lower deprivation towns,4.052207192,NA
+Towcester BUA,9057,East Midlands,Lower deprivation towns,4.530230361,NA
+Totnes BUA,8076,South West,Higher deprivation towns,0.503225122,NA
+Hinckley BUA,45249,East Midlands,Lower deprivation towns,0.559958632,7.638888888888889
+Yarm BUA,19184,North East,Lower deprivation towns,5.843868109,6.179775280898876
+Princes Risborough BUA,8231,South East,Lower deprivation towns,5.24101226,NA
+Seaham BUA,22373,North East,Higher deprivation towns,0.136307029,13.79310344827586
+Hexham BUA,11388,North East,Lower deprivation towns,0.824917989,NA
+Scunthorpe BUA,79977,Yorkshire and The Humber,Higher deprivation towns,-3.787594963,11.195652173913045
+Belper BUA,23417,East Midlands,Lower deprivation towns,0.52174457,5.6537102473498235
+Littleport BUA,7935,East of England,Mid deprivation towns,-3.796327098,NA
+Freckleton BUA,8049,North West,Mid deprivation towns,1.141650348,NA
+Berwick-upon-Tweed BUA,13265,North East,Higher deprivation towns,-3.25314731,12.5
+Stratford-upon-Avon BUA,27830,West Midlands,Lower deprivation towns,3.147476943,NA
+Wombourne BUA,13511,West Midlands,Lower deprivation towns,2.20853634,NA
+Burgess Hill BUA,30635,South East,Lower deprivation towns,0.964040705,3.6458333333333335
+Spalding BUA,31588,East Midlands,Lower deprivation towns,-0.523466773,5.198776758409786
+Ampthill BUA,20026,East of England,Lower deprivation towns,1.742323459,NA
+Barnard Castle BUA,7040,North East,Mid deprivation towns,6.595780993,NA
+Matlock BUA,14956,East Midlands,Mid deprivation towns,2.778396148,7.83132530120482
+Aveley BUA,7986,East of England,Higher deprivation towns,-4.086555371,NA
+Morpeth BUA,14403,North East,Lower deprivation towns,5.512185046,6.145251396648044
+Fakenham BUA,8285,East of England,Mid deprivation towns,-1.992542149,NA
+Lydney BUA,8776,South West,Higher deprivation towns,-1.991447299,12.97709923664122
+Cleator Moor BUA,6936,North West,Higher deprivation towns,-7.177692659,15.66265060240964
+Brentwood BUA,52586,East of England,Lower deprivation towns,4.499138003,3.8684719535783367
+Warrington BUA,165456,North West,Higher deprivation towns,1.607305372,7.6923076923076925
+Coleshill (North Warwickshire) BUA,6341,West Midlands,Lower deprivation towns,2.203421596,NA
+Winsford (Cheshire West and Chester) BUA,30259,North West,Higher deprivation towns,-4.583039557,12.857142857142856
+Kirkby BUA,42744,North West,Higher deprivation towns,-4.619211514,13.651315789473683
+Alcester BUA,6939,West Midlands,Mid deprivation towns,-1.784102991,NA
+Desborough BUA,10697,East Midlands,Lower deprivation towns,-1.566982084,NA
+Biddulph BUA,17669,West Midlands,Mid deprivation towns,-0.755044037,8.720930232558139
+Featherstone (Wakefield) BUA,11060,Yorkshire and The Humber,Higher deprivation towns,-0.819387943,10.95890410958904
+Witney BUA,29103,South East,Lower deprivation towns,-0.057763175,5.688622754491018
+Liskeard BUA,9237,South West,Higher deprivation towns,-3.686982506,12.857142857142856
+Faversham BUA,19829,South East,Higher deprivation towns,-1.886243775,8.050847457627118
+Market Harborough BUA,22911,East Midlands,Lower deprivation towns,0.373393758,6.557377049180328
+Swanage BUA,10454,South West,Lower deprivation towns,-0.390506169,NA
+Evesham BUA,23576,West Midlands,Mid deprivation towns,-2.762929262,8.333333333333332
+Canvey Island BUA,38170,East of England,Higher deprivation towns,-2.993949093,10.412573673870334
+Great Malvern BUA,36770,West Midlands,Mid deprivation towns,-1.026951308,10.824742268041238
+Cambourne BUA,8186,East of England,Lower deprivation towns,3.390375305,NA
+Salisbury BUA,44748,South West,Mid deprivation towns,-0.337939563,5.580357142857143
+Lowestoft BUA,70945,East of England,Higher deprivation towns,-5.880445314,12.12484993997599
+Crewkerne BUA,7826,South West,Mid deprivation towns,1.727992942,NA
+Ilkley BUA,14809,Yorkshire and The Humber,Lower deprivation towns,8.187997104,NA
+Skegness BUA,24876,East Midlands,Higher deprivation towns,-3.176983917,10.9375
+Malmesbury BUA,6318,South West,Lower deprivation towns,3.192052251,NA
+Danbury BUA,6673,East of England,Lower deprivation towns,7.906404445,NA
+Hereford BUA,60415,West Midlands,Mid deprivation towns,-4.150583568,7.881773399014779
+Formby BUA,23329,North West,Lower deprivation towns,8.0385394,NA
+Sandbach BUA,17976,North West,Lower deprivation towns,3.260302957,NA
+Edwinstowe BUA,5188,East Midlands,Lower deprivation towns,-1.204139772,NA
+St Ives (Cornwall) BUA,9966,South West,Higher deprivation towns,-1.00595494,9.803921568627452
+Pocklington BUA,8337,Yorkshire and The Humber,Lower deprivation towns,-0.246186213,NA
+Melton Mowbray BUA,27158,East Midlands,Lower deprivation towns,1.121771906,4.180064308681672
+Catterick Garrison BUA,11804,Yorkshire and The Humber,Lower deprivation towns,-4.759452482,NA
+Tonbridge BUA,38657,South East,Lower deprivation towns,1.113331627,4.3999999999999995
+Ravenshead BUA,5759,East Midlands,Lower deprivation towns,9.531051428,NA
+Castle Donington BUA,6416,East Midlands,Lower deprivation towns,-2.933743211,NA
+Penkridge BUA,7791,West Midlands,Lower deprivation towns,0.506789648,11.904761904761903
+Boston BUA,41340,East Midlands,Higher deprivation towns,-3.294958102,10.526315789473683
+Crowborough BUA,20607,South East,Lower deprivation towns,2.093625537,NA
+King's Lynn BUA,46093,East of England,Higher deprivation towns,-4.510351252,8.366533864541832
+Haywards Heath BUA,33845,South East,Lower deprivation towns,3.10267164,NA
+Bridgwater BUA,41276,South West,Higher deprivation towns,-4.50551239,10.800744878957168
+Gainsborough BUA,20842,East Midlands,Higher deprivation towns,-4.920193481,16.666666666666664
+Dover BUA,41709,South East,Higher deprivation towns,-5.030709544,11.812627291242364
+Maidstone BUA,107627,South East,Mid deprivation towns,0.580825095,5.918727915194346
+Bath BUA,94782,South West,Lower deprivation towns,1.296418602,5.327868852459016
+Scarborough BUA,61749,Yorkshire and The Humber,Higher deprivation towns,-1.693781118,9.401709401709402
+Oxted BUA,13452,South East,Lower deprivation towns,3.296634679,NA
+Shepton Mallet BUA,10369,South West,Mid deprivation towns,-1.496422044,NA
+Stone (Stafford) BUA,16385,West Midlands,Lower deprivation towns,3.61707852,NA
+Godmanchester BUA,6506,East of England,Lower deprivation towns,3.664639326,NA
+Polesworth BUA,9645,West Midlands,Mid deprivation towns,-0.263818577,NA
+Otford BUA,7155,South East,Lower deprivation towns,4.165594223,NA
+Kingsbridge BUA,6116,South West,Mid deprivation towns,3.85144957,NA
+Tewkesbury BUA,19778,South West,Lower deprivation towns,-1.289171902,10.952380952380953
+Bulford Camp BUA,8556,South West,Lower deprivation towns,-4.688911753,NA
+West Clandon BUA,5422,South East,Lower deprivation towns,6.977287881,NA
+Prestwood BUA,7501,South East,Lower deprivation towns,7.226617063,NA
+Barnstaple BUA,31616,South West,Higher deprivation towns,-2.518701836,6.106870229007633
+Preesall BUA,5367,North West,Higher deprivation towns,2.64463959,NA
+Melksham BUA,19357,South West,Mid deprivation towns,-2.213822897,7.053941908713693
+Warminster BUA,17490,South West,Lower deprivation towns,-0.144563264,7.065217391304348
+Bridport BUA,13737,South West,Mid deprivation towns,1.619693343,NA
+Thame BUA,11329,South East,Lower deprivation towns,1.577351621,NA
+Durham BUA,47785,North East,Lower deprivation towns,5.29425431,9.235668789808916
+Rowlands Gill BUA,6096,North East,Higher deprivation towns,0.210796382,13.924050632911392
+Redcar BUASD,37073,North East,Higher deprivation towns,-2.093097462,16.255144032921812
+Kidderminster BUASD,55530,West Midlands,Higher deprivation towns,-3.138242326,11.688311688311687
+Chadderton BUASD,34818,North West,Higher deprivation towns,0.668924889,11.76470588235294
+Longbenton BUASD,37070,North East,Higher deprivation towns,-0.20031761,7.560975609756097
+Watford BUASD,131982,East of England,Mid deprivation towns,2.76260053,3.9509536784741144
+Stevenage BUASD,89663,East of England,Higher deprivation towns,-2.030138243,7.257304429783224
+Ramsbottom BUASD,17872,North West,Lower deprivation towns,6.078762266,6.593406593406594
+Holmfirth BUASD,21706,Yorkshire and The Humber,Lower deprivation towns,4.724757799,4.6875
+Chalford BUASD,6876,South West,Lower deprivation towns,4.543595327,NA
+Church BUASD,5186,North West,Higher deprivation towns,-3.782613636,18.84057971014493
+Bentley BUASD,27145,Yorkshire and The Humber,Higher deprivation towns,-1.389753081,12.091503267973856
+Wednesbury BUASD,19029,West Midlands,Higher deprivation towns,-2.582295807,9.31174089068826
+Bursledon BUASD,6955,South East,Mid deprivation towns,-6.402588954,NA
+Hyde (Tameside) BUASD,34003,North West,Higher deprivation towns,-0.003561658,10.789473684210527
+Clayton-le-Moors BUASD,8522,North West,Higher deprivation towns,0.34501103,10.37735849056604
+Birstall BUASD,12216,East Midlands,Lower deprivation towns,1.418465375,NA
+Urmston BUASD,41825,North West,Lower deprivation towns,3.266720159,5.88235294117647
+Poynton BUASD,15282,North West,Lower deprivation towns,6.310770217,NA
+York BUASD,152841,Yorkshire and The Humber,Lower deprivation towns,0.516037835,6.086956521739131
+Hindley BUASD,24497,North West,Higher deprivation towns,-1.224758485,11.784511784511784
+Duffield BUASD,5046,East Midlands,Lower deprivation towns,9.278331945,NA
+Innsworth BUASD,13458,South West,Lower deprivation towns,0.543713177,NA
+Uppermill BUASD,13448,North West,Lower deprivation towns,7.639190791,NA
+Seaton Delaval BUASD,7509,North East,Higher deprivation towns,-0.934462623,NA
+Sedgley BUASD,30979,West Midlands,Higher deprivation towns,0.579966036,11.549295774647888
+Sandy BUASD,10883,East of England,Mid deprivation towns,-2.439171484,7.2992700729927
+Launceston BUASD,7597,South West,Higher deprivation towns,-1.713020244,NA
+Brinsley BUASD,5038,East Midlands,Lower deprivation towns,0.956416398,NA
+Gorleston-on-Sea BUASD,24741,East of England,Higher deprivation towns,-5.396252285,11.498257839721257
+North Ascot BUASD,10227,South East,Lower deprivation towns,8.212058793,NA
+Walton-on-the-Naze BUASD,12054,East of England,Higher deprivation towns,-1.646120303,11.627906976744184
+Borrowash BUASD,7335,East Midlands,Lower deprivation towns,0.137847463,NA
+Dunscroft BUASD,14326,Yorkshire and The Humber,Higher deprivation towns,-2.198733131,12.12121212121212
+Fence Houses BUASD,6649,North East,Higher deprivation towns,-2.359283201,20
+Ware BUASD,18799,East of England,Lower deprivation towns,3.256692068,NA
+Northam BUASD,10643,South West,Higher deprivation towns,0.007992804,NA
+Farnborough BUASD,65034,South East,Lower deprivation towns,-2.06492402,6.151645207439199
+Baldock BUASD,10280,East of England,Lower deprivation towns,2.22129998,NA
+Letchworth Garden City BUASD,33249,East of England,Higher deprivation towns,0.274278812,7.611548556430446
+Chorley BUASD,36183,North West,Higher deprivation towns,-0.062317391,10.026385224274406
+Guiseley BUASD,11960,Yorkshire and The Humber,Lower deprivation towns,4.216899186,NA
+Maidenhead BUASD,63580,South East,Lower deprivation towns,4.588403915,3.076923076923077
+Basingstoke BUASD,107355,South East,Lower deprivation towns,-2.084542454,6.030969845150774
+Swanley BUASD,16226,South East,Higher deprivation towns,-2.554599143,8.205128205128204
+Horwich BUASD,19492,North West,Higher deprivation towns,1.494028346,8.75
+Thornton (Wyre) BUASD,18941,North West,Mid deprivation towns,4.329882844,9.090909090909092
+Ruddington BUASD,7020,East Midlands,Lower deprivation towns,2.961247974,NA
+Chorleywood BUASD,12948,East of England,Lower deprivation towns,9.436415769,NA
+Shevington Vale BUASD,5197,North West,Lower deprivation towns,9.481922058,NA
+Hedon BUASD,8194,Yorkshire and The Humber,Mid deprivation towns,-0.64520719,NA
+Worthing BUASD,109120,South East,Mid deprivation towns,-1.572479804,6.989247311827956
+Saltdean BUASD,12936,South East,Lower deprivation towns,0.297788337,NA
+Romiley BUASD,34696,North West,Higher deprivation towns,-1.360599159,10.411622276029057
+Clifton (City of Nottingham) BUASD,22407,East Midlands,Higher deprivation towns,-5.914195291,16.796875
+South Elmsall BUASD,10366,Yorkshire and The Humber,Higher deprivation towns,-1.012782303,11.515151515151516
+Ashton-in-Makerfield BUASD,28762,North West,Higher deprivation towns,3.101443415,8.88888888888889
+Prescot BUASD,37911,North West,Higher deprivation towns,1.676588847,12.869198312236287
+Sale BUASD,134022,North West,Higher deprivation towns,-0.639161991,11.904761904761903
+South Kirkby BUASD,8533,Yorkshire and The Humber,Higher deprivation towns,-4.213214985,12
+Eccles BUASD,38756,North West,Higher deprivation towns,-2.782262982,12.71393643031785
+Cottingham BUASD,15182,Yorkshire and The Humber,Lower deprivation towns,-0.137521472,9.923664122137405
+Dewsbury BUASD,62945,Yorkshire and The Humber,Higher deprivation towns,-2.122974794,11.636363636363637
+Syston BUASD,12804,East Midlands,Lower deprivation towns,1.302890147,NA
+Morley BUASD,29673,Yorkshire and The Humber,Higher deprivation towns,2.580287156,10.476190476190476
+Gillingham BUASD,104157,South East,Higher deprivation towns,-0.338993657,8.226837060702875
+Pelton BUASD,5278,North East,Higher deprivation towns,-1.58142348,22.972972972972975
+Rothwell BUASD,19512,Yorkshire and The Humber,Mid deprivation towns,-0.986711753,6.701030927835052
+Aldershot BUASD,57211,South East,Mid deprivation towns,-1.656571902,7.296849087893864
+Dunstable BUASD,30184,East of England,Mid deprivation towns,-1.085901732,6.629834254143646
+Trimley St Mary BUASD,5607,East of England,Lower deprivation towns,-2.156351207,NA
+Braunton BUASD,7353,South West,Lower deprivation towns,-1.206411528,NA
+Hazel Grove BUASD,19365,North West,Lower deprivation towns,3.840141386,5.911330049261084
+Northfleet BUASD,27628,South East,Higher deprivation towns,-1.811253124,8.978328173374612
+New Milton BUASD,19969,South East,Mid deprivation towns,-1.425647801,NA
+Heckmondwike BUASD,12085,Yorkshire and The Humber,Higher deprivation towns,-2.180692894,8.860759493670885
+Ashtead BUASD,13901,South East,Lower deprivation towns,8.063923033,NA
+Altrincham BUASD,52419,North West,Lower deprivation towns,6.056482702,4.013961605584642
+Hullbridge BUASD,6097,East of England,Lower deprivation towns,0.879268136,NA
+Bilston BUASD,29556,West Midlands,Higher deprivation towns,-3.973907614,18.384401114206128
+Woodbridge BUASD,11341,East of England,Lower deprivation towns,3.16352695,8.064516129032258
+Winchester BUASD,45184,South East,Lower deprivation towns,4.068887671,3.3942558746736298
+Histon BUASD,7866,East of England,Lower deprivation towns,6.779463444,NA
+Denton BUASD,36591,North West,Higher deprivation towns,0.284171701,7.582938388625592
+Plymstock BUASD,25221,South West,Lower deprivation towns,2.878987054,5.944055944055944
+Irlam BUASD,19933,North West,Higher deprivation towns,-3.240896417,12.781954887218044
+Bedworth BUASD,30648,West Midlands,Higher deprivation towns,-2.756130842,8.635097493036211
+Brighton and Hove BUASD,229700,South East,Cities,0.666461582,9.6406160867085
+Whickham BUASD,16652,North East,Mid deprivation towns,6.029443478,10.309278350515465
+Kirkby-in-Ashfield BUASD,26927,East Midlands,Higher deprivation towns,-3.974575654,14.606741573033707
+Yatton BUASD,7203,South West,Lower deprivation towns,1.762950972,NA
+Middleton (Rochdale) BUASD,42972,North West,Higher deprivation towns,-1.577901901,12.12121212121212
+Swinton BUASD,25362,North West,Higher deprivation towns,1.73714735,10.526315789473683
+Sandhurst BUASD,20495,South East,Lower deprivation towns,2.397830523,4.918032786885246
+St Austell BUASD,23864,South West,Higher deprivation towns,-0.62557946,7.664233576642336
+Swallownest BUASD,15022,Yorkshire and The Humber,Higher deprivation towns,2.727162075,12.777777777777777
+Dudley (Dudley) BUASD,79379,West Midlands,Higher deprivation towns,-3.209162913,12.660731948565775
+Great Harwood BUASD,10800,North West,Higher deprivation towns,-0.300604437,NA
+Groby BUASD,6782,East Midlands,Lower deprivation towns,5.520220795,NA
+Knottingley BUASD,13971,Yorkshire and The Humber,Higher deprivation towns,-5.195221651,20.689655172413794
+Cullompton BUASD,7439,South West,Lower deprivation towns,-3.054432815,NA
+Wednesfield BUASD,25303,West Midlands,Higher deprivation towns,-0.16735383,11.25
+Waterbeach BUASD,5210,East of England,Lower deprivation towns,-0.396774338,NA
+Ince-in-Makerfield BUASD,12243,North West,Higher deprivation towns,-4.369479427,8.875739644970414
+Salford BUASD,103886,North West,Higher deprivation towns,-2.491062456,12.36323851203501
+Halifax BUASD,88134,Yorkshire and The Humber,Higher deprivation towns,-0.711623244,11.78082191780822
+Crowthorne BUASD,14263,South East,Lower deprivation towns,8.023612449,NA
+Bromsgrove BUASD,33461,West Midlands,Mid deprivation towns,-0.02223226,6.149732620320856
+St Blazey BUASD,9958,South West,Higher deprivation towns,-2.256889066,9.15492957746479
+Gatley BUASD,20997,North West,Lower deprivation towns,5.793173582,4.484304932735426
+Bloxwich BUASD,47288,West Midlands,Higher deprivation towns,-6.351488055,20.63758389261745
+Pickering BUASD,6588,Yorkshire and The Humber,Mid deprivation towns,5.065109445,NA
+Woburn Sands BUASD,5959,South East,Lower deprivation towns,3.95902288,NA
+Heathfield BUASD,7732,South East,Lower deprivation towns,1.543776057,NA
+Euxton BUASD,8118,North West,Lower deprivation towns,6.903651622,NA
+Weston BUASD,6069,South West,Higher deprivation towns,-2.824429521,NA
+Kingswinford BUASD,50801,West Midlands,Higher deprivation towns,2.382700835,6.423611111111111
+Uckfield BUASD,15213,South East,Lower deprivation towns,3.926932387,NA
+Wells BUASD,10536,South West,Mid deprivation towns,-1.355545101,NA
+Hetton-le-Hole BUASD,12127,North East,Higher deprivation towns,-0.572072407,14.473684210526317
+Trowbridge BUASD,39409,South West,Mid deprivation towns,-1.978006498,9.233791748526524
+Redhill BUASD,34498,South East,Lower deprivation towns,-0.496324682,4.261363636363636
+Addlestone BUASD,15883,South East,Lower deprivation towns,2.405694248,NA
+Haydock BUASD,16521,North West,Higher deprivation towns,-0.13571104,9.523809523809524
+Coleford BUASD,5103,South West,Higher deprivation towns,-6.356277691,NA
+Smethwick BUASD,48765,West Midlands,Higher deprivation towns,-1.851598092,15.629742033383916
+Sutton in Ashfield BUASD,45848,East Midlands,Higher deprivation towns,-3.76077978,13.026052104208416
+Kidlington BUASD,15046,South East,Lower deprivation towns,-1.342192217,NA
+Chigwell BUASD,10365,East of England,Lower deprivation towns,2.110547111,NA
+Ossett BUASD,21231,Yorkshire and The Humber,Mid deprivation towns,4.080223424,7.792207792207792
+Mansfield Woodhouse BUASD,18574,East Midlands,Higher deprivation towns,-2.189665402,8.849557522123893
+Southend-on-Sea BUASD,175547,East of England,Higher deprivation towns,-1.008837714,10.551558752997602
+Brierley Hill BUASD,31430,West Midlands,Higher deprivation towns,-3.29543406,12.207792207792208
+Wallasey BUASD,60284,North West,Higher deprivation towns,-1.245036256,12.309820193637622
+Harwich BUASD,19738,East of England,Higher deprivation towns,-2.798036346,16.94214876033058
+Barrow upon Soar BUASD,5956,East Midlands,Lower deprivation towns,0.173554969,NA
+Kendal BUASD,28586,North West,Lower deprivation towns,1.889118975,5.167173252279635
+South Shields BUASD,75337,North East,Higher deprivation towns,-2.003480579,16.46489104116223
+Corsham BUASD,13432,South West,Lower deprivation towns,1.627297372,NA
+Mirfield BUASD,19330,Yorkshire and The Humber,Mid deprivation towns,4.45905833,6.392694063926941
+Coppull BUASD,7959,North West,Higher deprivation towns,-1.788450725,NA
+Norwich BUASD,186682,East of England,Higher deprivation towns,-4.017804063,8.989460632362057
+Higham Ferrers BUASD,8083,East Midlands,Lower deprivation towns,-4.166607118,NA
+Norton-on-Derwent BUASD,7049,Yorkshire and The Humber,Mid deprivation towns,-1.471898725,NA
+Stourbridge BUASD,63298,West Midlands,Higher deprivation towns,3.184527723,10.71932299012694
+Westhoughton BUASD,24126,North West,Mid deprivation towns,0.944128339,8.361204013377927
+Felixstowe BUASD,23564,East of England,Mid deprivation towns,-3.006915502,7.755102040816326
+Yate BUASD,30022,South West,Lower deprivation towns,-2.474376394,3.1026252983293556
+Goldthorpe BUASD,6051,Yorkshire and The Humber,Higher deprivation towns,-9.285628136,17.28395061728395
+Whitehaven BUASD,23986,North West,Higher deprivation towns,-3.625104199,13.074204946996469
+Baildon BUASD,15944,Yorkshire and The Humber,Lower deprivation towns,2.696693887,NA
+Shefford BUASD,5954,East of England,Lower deprivation towns,2.106567892,NA
+Lees BUASD,13062,North West,Mid deprivation towns,2.972648349,9.62962962962963
+Steyning BUASD,6557,South East,Lower deprivation towns,8.083936642,NA
+Nuneaton BUASD,86552,West Midlands,Higher deprivation towns,-2.019440204,9.674418604651162
+Wisbech BUASD,31573,East of England,Higher deprivation towns,-4.610811628,10.185185185185183
+Chatham BUASD,76792,South East,Higher deprivation towns,-2.361691643,11.28048780487805
+Dukinfield BUASD,20909,North West,Higher deprivation towns,-1.57866511,10.78838174273859
+Falmouth BUASD,22686,South West,Higher deprivation towns,-0.507146946,4.901960784313726
+How Wood BUASD,6834,East of England,Lower deprivation towns,6.676941382,NA
+Farnworth BUASD,26939,North West,Higher deprivation towns,-3.537825076,18.157894736842103
+Sawbridgeworth BUASD,9800,East of England,Lower deprivation towns,4.159398797,NA
+Whitstable BUASD,32100,South East,Lower deprivation towns,-0.659305957,5.352112676056338
+Cleckheaton BUASD,11648,Yorkshire and The Humber,Higher deprivation towns,-0.240877993,NA
+Halesowen BUASD,58135,West Midlands,Higher deprivation towns,2.057541141,7.085346215780998
+Nailsea BUASD,16060,South West,Lower deprivation towns,0.732661067,NA
+Ashford (Spelthorne) BUASD,28036,South East,Lower deprivation towns,0.735865707,NA
+Sutton Coldfield BUASD,109015,West Midlands,Lower deprivation towns,6.372935408,4.714640198511166
+Northwood BUASD,5253,East of England,Lower deprivation towns,11.87150502,NA
+Manchester BUASD,510746,North West,Cities,-1.781852104,12.478201898856812
+Narborough/Enderby BUASD,12996,East Midlands,Lower deprivation towns,0.925170267,NA
+Great Notley BUASD,7749,East of England,Lower deprivation towns,2.52457092,NA
+North Wingfield BUASD,9205,East Midlands,Higher deprivation towns,-4.738558725,11.76470588235294
+Burnley BUASD,81548,North West,Higher deprivation towns,-4.684084881,12.807881773399016
+Soham BUASD,9165,East of England,Lower deprivation towns,-3.595444977,NA
+Hatfield BUASD,37577,East of England,Lower deprivation towns,-1.33631924,6.093189964157706
+Burnham-on-Sea BUASD,23325,South West,Higher deprivation towns,-0.032310942,6.481481481481481
+Ingatestone BUASD,5365,East of England,Lower deprivation towns,3.32526577,NA
+Bingley BUASD,22493,Yorkshire and The Humber,Mid deprivation towns,3.94853063,6.730769230769231
+Blackwater BUASD,7195,South East,Lower deprivation towns,0.918000858,NA
+Crosby BUASD,50044,North West,Higher deprivation towns,2.577659281,11.38353765323993
+Sandown BUASD,11868,South East,Higher deprivation towns,-6.160463498,11.464968152866245
+Hessle BUASD,14515,Yorkshire and The Humber,Mid deprivation towns,-0.535595687,NA
+Bishop Auckland BUASD,24908,North East,Higher deprivation towns,-2.212082553,18.0327868852459
+Immingham BUASD,10750,Yorkshire and The Humber,Higher deprivation towns,-6.952849356,14.685314685314683
+Bootle BUASD,51394,North West,Higher deprivation towns,-3.835224167,17.737003058103976
+Brough BUASD,12472,Yorkshire and The Humber,Lower deprivation towns,5.573030387,NA
+Ouston BUASD,5303,North East,Lower deprivation towns,3.527385471,NA
+Polegate BUASD,9034,South East,Mid deprivation towns,-0.433249073,NA
+Haworth BUASD,6379,Yorkshire and The Humber,Lower deprivation towns,3.387639399,NA
+Great Wyrley BUASD,18353,West Midlands,Mid deprivation towns,-1.30866886,8.67579908675799
+Thrapston BUASD,6239,East Midlands,Lower deprivation towns,3.211539844,NA
+Broadstairs BUASD,23632,South East,Mid deprivation towns,-0.025326314,9.120521172638435
+Banstead BUASD,10653,South East,Lower deprivation towns,8.094803358,NA
+Cheadle BUASD,13467,North West,Mid deprivation towns,-0.206075117,NA
+Waltham BUASD,6057,Yorkshire and The Humber,Lower deprivation towns,3.689730382,NA
+Rawtenstall BUASD,23128,North West,Higher deprivation towns,0.174191612,7.9422382671480145
+Houghton Regis BUASD,16606,East of England,Higher deprivation towns,-6.484121394,10.091743119266056
+Rowley Regis BUASD,34260,West Midlands,Higher deprivation towns,-1.308650056,12.472647702407002
+Workington BUASD,22098,North West,Higher deprivation towns,-4.869807195,14.69387755102041
+Billingham BUASD,35392,North East,Higher deprivation towns,-0.256715434,15.23809523809524
+Hebburn BUASD,19148,North East,Higher deprivation towns,1.35443212,16.450216450216452
+Midsomer Norton BUASD,12415,South West,Lower deprivation towns,-0.181175569,NA
+Aldridge BUASD,39463,West Midlands,Higher deprivation towns,1.698740678,10.085836909871244
+Kimberley BUASD,11353,East Midlands,Mid deprivation towns,0.566863572,10.569105691056912
+Macclesfield BUASD,56581,North West,Mid deprivation towns,1.918291585,6.741573033707865
+Windsor BUASD,31225,South East,Lower deprivation towns,0.974698793,3.985507246376811
+Walkden BUASD,21194,North West,Mid deprivation towns,1.96719143,7.582938388625592
+Darlaston BUASD,18803,West Midlands,Higher deprivation towns,-5.126676349,19.12350597609562
+Whitburn BUASD,5102,North East,Higher deprivation towns,-3.08185144,NA
+Burton Latimer BUASD,7449,East Midlands,Mid deprivation towns,-2.452282148,NA
+Hucknall BUASD,32107,East Midlands,Higher deprivation towns,-3.174883143,12
+Oldbury (Sandwell) BUASD,23964,West Midlands,Higher deprivation towns,-1.599978013,10.30534351145038
+Dodworth BUASD,5900,Yorkshire and The Humber,Higher deprivation towns,2.161715842,NA
+Stalybridge BUASD,26482,North West,Higher deprivation towns,-0.488017488,13.114754098360656
+Stapleford BUASD,16190,East Midlands,Mid deprivation towns,-1.950557637,7.865168539325842
+Moorends BUASD,5455,Yorkshire and The Humber,Higher deprivation towns,-3.772493901,15.384615384615383
+Bury St Edmunds BUASD,41113,East of England,Lower deprivation towns,-0.16783077,5.643340857787811
+Romsey BUASD,16998,South East,Lower deprivation towns,2.649834534,NA
+Caterham BUASD,21437,South East,Lower deprivation towns,0.549953241,6.956521739130435
+Thatcham BUASD,26017,South East,Lower deprivation towns,-0.080421657,3.592814371257485
+Sheringham BUASD,7367,East of England,Mid deprivation towns,2.820617446,NA
+Carterton BUASD,15769,South East,Lower deprivation towns,-2.286163498,NA
+Eastbourne BUASD,109185,South East,Higher deprivation towns,-2.281555604,9.850483729111698
+Darwen BUASD,28155,North West,Higher deprivation towns,-0.761057801,11.838006230529595
+Horbury BUASD,10361,Yorkshire and The Humber,Mid deprivation towns,3.173359701,9.090909090909092
+Braintree BUASD,41634,East of England,Mid deprivation towns,-4.082898176,6.769825918762089
+Carlton (Gedling) BUASD,49235,East Midlands,Higher deprivation towns,1.117383847,9.514563106796116
+Wallingford BUASD,7918,South East,Lower deprivation towns,-0.854982582,NA
+Horsham BUASD,48041,South East,Lower deprivation towns,5.397228742,2.3952095808383236
+Bacup BUASD,13323,North West,Higher deprivation towns,-5.903708401,19.35483870967742
+Tyldesley BUASD,16142,North West,Mid deprivation towns,3.194589501,5.181347150259067
+Castleford BUASD,39192,Yorkshire and The Humber,Higher deprivation towns,-2.174272293,12.629399585921323
+Woodingdean BUASD,9793,South East,Higher deprivation towns,-0.686227177,11.016949152542372
+Heywood BUASD,28205,North West,Higher deprivation towns,-3.370296135,16.387959866220736
+Bramhall BUASD,17436,North West,Lower deprivation towns,5.470582132,NA
+Hartley (Sevenoaks) BUASD,16029,South East,Lower deprivation towns,3.950217044,NA
+Thurnscoe BUASD,8687,Yorkshire and The Humber,Higher deprivation towns,-10.02801511,12.096774193548388
+Radstock BUASD,9419,South West,Mid deprivation towns,-5.934594888,8.461538461538462
+Crawley BUASD,106943,South East,Mid deprivation towns,-3.830908388,6.60828025477707
+Worsbrough BUASD,9119,Yorkshire and The Humber,Higher deprivation towns,-6.855157827,12.06896551724138
+Littlehampton BUASD,55706,South East,Mid deprivation towns,-3.409339525,8.25082508250825
+Goole BUASD,20810,Yorkshire and The Humber,Higher deprivation towns,-4.748883703,11.475409836065571
+Mexborough BUASD,15244,Yorkshire and The Humber,Higher deprivation towns,-7.692514402,20.710059171597635
+East Wittering BUASD,5647,South East,Mid deprivation towns,0.400143569,NA
+Chichester BUASD,28657,South East,Mid deprivation towns,2.11672004,7.142857142857142
+Sturry BUASD,5085,South East,Mid deprivation towns,-0.779019226,NA
+Cromer BUASD,7949,East of England,Higher deprivation towns,-1.490068056,NA
+Ewell BUASD,51727,South East,Lower deprivation towns,3.8292772,3.839122486288848
+Throckley BUASD,5507,North East,Higher deprivation towns,-4.099446778,NA
+Penryn BUASD,8439,South West,Higher deprivation towns,-1.276549602,NA
+Borehamwood BUASD,35489,East of England,Higher deprivation towns,-0.125421126,5.75
+Royton BUASD,23812,North West,Mid deprivation towns,2.928140371,8.865248226950355
+Kibworth Harcourt BUASD,5433,East Midlands,Lower deprivation towns,2.678125793,NA
+Thornton (Bradford) BUASD,5289,Yorkshire and The Humber,Higher deprivation towns,-4.221030255,NA
+Shipley BUASD,28694,Yorkshire and The Humber,Higher deprivation towns,0.25079604,8.904109589041095
+Droylsden BUASD,24134,North West,Higher deprivation towns,-1.049645206,10.289389067524116
+Thorne BUASD,11840,Yorkshire and The Humber,Higher deprivation towns,-3.310271828,10.687022900763358
+Banbury BUASD,46525,South East,Mid deprivation towns,-3.291930369,7.393715341959335
+Sevenoaks BUASD,29506,South East,Lower deprivation towns,7.195924607,NA
+Bollington BUASD,7373,North West,Lower deprivation towns,4.420683682,NA
+Shevington BUASD,5114,North West,Lower deprivation towns,6.109889871,NA
+Blackburn BUASD,117963,North West,Higher deprivation towns,0.334593472,9.64332892998679
+Kempston BUASD,19350,East of England,Higher deprivation towns,-3.697009155,10.4
+Cirencester BUASD,16325,South West,Lower deprivation towns,0.653551126,6.043956043956044
+Whetstone BUASD,12760,East Midlands,Lower deprivation towns,0.643969199,6.289308176100629
+Brighouse BUASD,33286,Yorkshire and The Humber,Mid deprivation towns,2.574817445,7.837837837837839
+Nelson (Pendle) BUASD,29463,North West,Higher deprivation towns,-4.902350613,11.182108626198085
+Whitefield BUASD,20975,North West,Higher deprivation towns,0.313167691,11.926605504587156
+Truro BUASD,20332,South West,Higher deprivation towns,-0.471521633,9.004739336492891
+Arnold BUASD,37768,East Midlands,Mid deprivation towns,1.489914038,9.66183574879227
+Stamford BUASD,19701,East Midlands,Lower deprivation towns,0.885540404,6.748466257668712
+Broseley BUASD,5257,West Midlands,Mid deprivation towns,-1.876031408,NA
+Taunton BUASD,60479,South West,Mid deprivation towns,-1.388698309,7.30050933786078
+Ashton-under-Lyne BUASD,45198,North West,Higher deprivation towns,-1.529208741,12.567324955116696
+Eckington BUASD,7386,East Midlands,Higher deprivation towns,-2.716984223,NA
+New Mills BUASD,12291,East Midlands,Lower deprivation towns,0.891824158,NA
+Oaklands BUASD,7711,East of England,Lower deprivation towns,7.634311709,NA
+Poole BUASD,154718,South West,Mid deprivation towns,-0.604691758,7.557436517533253
+Windermere BUASD,5243,North West,Lower deprivation towns,0.877554795,NA
+Ackworth Moor Top BUASD,5281,Yorkshire and The Humber,Lower deprivation towns,0.26763157,NA
+Rushden BUASD,29501,East Midlands,Mid deprivation towns,-3.408960683,6.515580736543909
+Alsager BUASD,13347,North West,Lower deprivation towns,5.501626941,7.638888888888889
+Oswaldtwistle BUASD,11803,North West,Higher deprivation towns,0.669429645,7.38255033557047
+Horndean BUASD,46924,South East,Lower deprivation towns,-1.195164287,4.6040515653775325
+Southwick BUASD,11551,South East,Higher deprivation towns,-4.380328788,9.6
+Dartmouth BUASD,5064,South West,Mid deprivation towns,-4.782945513,NA
+Coseley BUASD,23104,West Midlands,Higher deprivation towns,-3.41080653,12.341772151898734
+Christchurch BUASD,54210,South West,Lower deprivation towns,0.498256597,4.665314401622718
+Birkenhead BUASD,142968,North West,Higher deprivation towns,-1.237611184,14.149821640903689
+Fulwood BUASD,35830,North West,Mid deprivation towns,4.850637616,6.982543640897755
+Great Yarmouth BUASD,38693,East of England,Higher deprivation towns,-7.571466876,13.195876288659797
+Ingleby Barwick BUASD,20378,North East,Lower deprivation towns,5.682268239,5.980066445182724
+Breaston BUASD,7545,East Midlands,Lower deprivation towns,1.928356753,NA
+North Hykeham BUASD,14719,East Midlands,Lower deprivation towns,0.608627229,5.288461538461538
+Wivenhoe BUASD,7637,East of England,Lower deprivation towns,5.469808967,NA
+Didcot BUASD,26920,South East,Lower deprivation towns,-0.644104316,3.3639143730886847
+Chadwell St Mary BUASD,9864,East of England,Higher deprivation towns,-4.96851575,10.655737704918032
+Waltham Cross BUASD,10069,East of England,Higher deprivation towns,-2.476689795,8.928571428571429
+Eastwood BUASD,18422,East Midlands,Higher deprivation towns,-3.599286966,8.98876404494382
+Bordon BUASD,16035,South East,Lower deprivation towns,-3.565065023,NA
+Camborne BUASD,20436,South West,Higher deprivation towns,-4.449183084,14.22222222222222
+Blackheath BUASD,6518,West Midlands,Higher deprivation towns,-5.351157001,17.94871794871795
+Taverham BUASD,15631,East of England,Lower deprivation towns,0.48103356,5.741626794258373
+Little Lever BUASD,12803,North West,Mid deprivation towns,1.900294948,12.280701754385964
+Atherton BUASD,70542,North West,Higher deprivation towns,-2.001725366,12.404092071611252
+St Ives BUASD,16384,East of England,Lower deprivation towns,-0.295645761,4.784688995215311
+Marlborough BUASD,8092,South West,Lower deprivation towns,1.00135873,NA
+Hertford BUASD,26658,East of England,Lower deprivation towns,5.531986486,NA
+West Bridgford BUASD,45509,East Midlands,Lower deprivation towns,8.629809538,3.829787234042553
+Bletchley BUASD,37114,South East,Higher deprivation towns,-3.639792553,5.582524271844661
+Berkhamsted BUASD,20641,East of England,Lower deprivation towns,6.147536078,NA
+Knaresborough BUASD,15484,Yorkshire and The Humber,Lower deprivation towns,4.536482226,NA
+Willenhall BUASD,51429,West Midlands,Higher deprivation towns,-2.284995953,13.614262560777956
+Helston BUASD,11311,South West,Mid deprivation towns,-4.851302162,NA
+Bulkington BUASD,6146,West Midlands,Lower deprivation towns,2.375010926,NA
+Ramsgate BUASD,40515,South East,Higher deprivation towns,-5.317624146,13.043478260869565
+Adlington BUASD,9211,North West,Lower deprivation towns,4.323864549,NA
+Kippax BUASD,10083,Yorkshire and The Humber,Lower deprivation towns,-3.008213363,NA
+Penzance BUASD,16336,South West,Higher deprivation towns,-2.650602856,11.442786069651742
+Sheffield BUASD,518090,Yorkshire and The Humber,Cities,-1.979964028,11.09846328969835
+Cheadle Hulme BUASD,24362,North West,Lower deprivation towns,7.854161076,NA
+Radcliffe BUASD,29950,North West,Higher deprivation towns,2.10947e-4,13.017751479289942
+Coalville BUASD,34575,East Midlands,Mid deprivation towns,-1.60944439,6.87960687960688
+Garstang BUASD,6779,North West,Lower deprivation towns,3.655602055,NA
+Tipton BUASD,42407,West Midlands,Higher deprivation towns,-3.268292547,12.12121212121212
+Bridlington BUASD,35154,Yorkshire and The Humber,Higher deprivation towns,-3.242825753,8.96358543417367
+Litherland BUASD,18507,North West,Higher deprivation towns,-2.90361017,17.62295081967213
+Kirkham BUASD,11915,North West,Mid deprivation towns,0.379043714,9.352517985611511
+Barnsley BUASD,91297,Yorkshire and The Humber,Higher deprivation towns,-3.220951054,10.34816247582205
+Platt Bridge BUASD,10315,North West,Higher deprivation towns,1.211313826,11.538461538461538
+Luton BUASD,211228,East of England,Higher deprivation towns,-0.270585313,5.632183908045977
+Wath upon Dearne BUASD,33427,Yorkshire and The Humber,Higher deprivation towns,-1.473308801,12.325581395348838
+Quorn (Quorndon) BUASD,5177,East Midlands,Lower deprivation towns,8.45898e-4,NA
+Burscough BUASD,8799,North West,Lower deprivation towns,3.311754688,NA
+Dursley BUASD,14542,South West,Mid deprivation towns,-0.730642322,7.017543859649122
+Harrogate BUASD,73576,Yorkshire and The Humber,Lower deprivation towns,4.42155333,4.72972972972973
+Godalming BUASD,22689,South East,Lower deprivation towns,-0.004594232,NA
+Kingsteignton BUASD,10451,South West,Lower deprivation towns,-1.346962322,NA
+Bebington BUASD,57336,North West,Mid deprivation towns,3.307546809,7.749627421758569
+East Cowes BUASD,7010,South East,Higher deprivation towns,-7.603865176,14.457831325301203
+Frampton Cotterell/Winterbourne BUASD,14694,South West,Lower deprivation towns,1.245370201,NA
+Long Eaton BUASD,37760,East Midlands,Mid deprivation towns,0.083500519,7.823960880195599
+West Bromwich (East) BUASD,18985,West Midlands,Mid deprivation towns,1.710624166,7.142857142857142
+Bolton Upon Dearne BUASD,6744,Yorkshire and The Humber,Higher deprivation towns,-6.328261488,NA
+Lytham St Anne's BUASD,42953,North West,Mid deprivation towns,4.262292065,7.64872521246459
+Wellington BUASD,11213,South West,Higher deprivation towns,-2.61960053,13.47517730496454
+Failsworth BUASD,18844,North West,Higher deprivation towns,-0.694710135,11.894273127753303
+Haslingden BUASD,15969,North West,Higher deprivation towns,1.786845764,10.344827586206897
+Heysham BUASD,15633,North West,Higher deprivation towns,-3.545088644,10.309278350515465
+Cleethorpes BUASD,39505,Yorkshire and The Humber,Higher deprivation towns,-0.267530379,12.756264236902052
+Walton-on-Thames BUASD,66566,South East,Lower deprivation towns,0.962156076,5.281090289608177
+Pudsey BUASD,32216,Yorkshire and The Humber,Mid deprivation towns,-0.018603517,6.918238993710692
+Grayshott BUASD,6668,South East,Lower deprivation towns,3.635315029,NA
+Pontefract BUASD,29305,Yorkshire and The Humber,Higher deprivation towns,-0.591112362,7.951070336391437
+Stretford BUASD,26813,North West,Higher deprivation towns,1.065133309,9.509202453987731
+Teignmouth BUASD,15129,South West,Higher deprivation towns,-2.97809053,12.162162162162163
+Crewe BUASD,71722,North West,Higher deprivation towns,-3.51396738,9.621993127147768
+Gravesend BUASD,55467,South East,Higher deprivation towns,-0.350180645,9.420289855072465
+Frimley BUASD,19094,South East,Lower deprivation towns,3.578455606,NA
+Wraysbury BUASD,7377,South East,Lower deprivation towns,5.137389166,NA
+Newton Abbot BUASD,25556,South West,Higher deprivation towns,-2.290606339,5.537459283387622
+Morecambe BUASD,33432,North West,Higher deprivation towns,-3.02572797,11.80722891566265
+Sileby BUASD,8433,East Midlands,Mid deprivation towns,-3.931229503,NA
+Cleveleys BUASD,10754,North West,Higher deprivation towns,0.857448327,11.607142857142858
+Paulton BUASD,5302,South West,Lower deprivation towns,-1.4383569,NA
+Stakeford BUASD,8642,North East,Higher deprivation towns,-6.323355662,19.148936170212767
+Yateley BUASD,14829,South East,Lower deprivation towns,3.921401314,NA
+Stonehouse BUASD,7400,South West,Mid deprivation towns,-3.027883777,NA
+Armthorpe BUASD,14457,Yorkshire and The Humber,Higher deprivation towns,-5.199863605,11.44578313253012
+Stainforth BUASD,6282,Yorkshire and The Humber,Higher deprivation towns,-7.990272297,18.68131868131868
+Keighley BUASD,53331,Yorkshire and The Humber,Higher deprivation towns,-2.139068773,11.278195488721805
+Burnham-on-Crouch BUASD,6905,East of England,Mid deprivation towns,-1.904359509,NA
+Selston BUASD,7019,East Midlands,Higher deprivation towns,-3.202404945,NA
+Havant BUASD,45125,South East,Higher deprivation towns,-7.115271286,12.453531598513012
+Golborne BUASD,24167,North West,Mid deprivation towns,0.991929859,9.96309963099631
+Cheshunt BUASD,45832,East of England,Mid deprivation towns,-0.386972774,4.827586206896552
+Shaw (Oldham) BUASD,18815,North West,Higher deprivation towns,2.818999959,5.88235294117647
+Earl Shilton BUASD,19069,East Midlands,Higher deprivation towns,-3.421269258,5.687203791469194
+Shanklin BUASD,9072,South East,Higher deprivation towns,-2.967645079,10.1010101010101
+Whitnash BUASD,8094,West Midlands,Lower deprivation towns,-0.616120391,NA
+Hythe BUASD,15092,South East,Mid deprivation towns,-0.946619749,8.73015873015873
+Mossley BUASD,10772,North West,Higher deprivation towns,2.611989787,10.37735849056604
+Maltby BUASD,16688,Yorkshire and The Humber,Higher deprivation towns,-1.615392673,14.042553191489365
+Totton BUASD,28676,South East,Lower deprivation towns,-4.049889397,3.076923076923077
+Portslade-by-Sea BUASD,19921,South East,Higher deprivation towns,-2.963099327,10.67193675889328
+Cross Hills BUASD,7564,Yorkshire and The Humber,Lower deprivation towns,3.491721847,NA
+West Kirby BUASD,14959,North West,Lower deprivation towns,6.982570241,7.352941176470589
+Blaydon BUASD,15155,North East,Higher deprivation towns,-2.800825142,14.012738853503183
+Killamarsh BUASD,9251,East Midlands,Mid deprivation towns,-0.963323673,NA
+Milnrow BUASD,10015,North West,Higher deprivation towns,1.800207789,15.23809523809524
+Bishop's Cleeve BUASD,13273,South West,Lower deprivation towns,2.385815574,NA
+Ringwood BUASD,13943,South East,Lower deprivation towns,0.201122502,NA
+Dorking BUASD,17098,South East,Lower deprivation towns,4.995673342,NA
+Rawmarsh BUASD,18498,Yorkshire and The Humber,Higher deprivation towns,-4.069808241,13.304721030042918
+Barrowford BUASD,5521,North West,Lower deprivation towns,3.26125954,NA
+Bournemouth BUASD,187503,South West,Higher deprivation towns,-0.978485426,8.317929759704251
+Kearsley BUASD,11150,North West,Higher deprivation towns,0.070505385,7.971014492753622
+Ashford (Ashford) BUASD,67528,South East,Higher deprivation towns,-3.483361212,9.26143024618992
+Southborough BUASD,11138,South East,Lower deprivation towns,1.231928342,NA
+Welwyn Garden City BUASD,48380,East of England,Mid deprivation towns,2.237234508,6.273764258555133
+Chalfont St Giles BUASD,5003,South East,Lower deprivation towns,8.473642984,NA
+Cowes BUASD,14216,South East,Mid deprivation towns,-0.649945761,NA
+Cudworth BUASD,12635,Yorkshire and The Humber,Higher deprivation towns,-4.920676695,10.059171597633137
+Sandiacre BUASD,9600,East Midlands,Mid deprivation towns,-1.458694426,NA
+Doncaster BUASD,109805,Yorkshire and The Humber,Higher deprivation towns,-1.178336473,10.112359550561797
+Selby BUASD,17511,Yorkshire and The Humber,Higher deprivation towns,-5.449297195,13.636363636363637
+Hartlepool BUASD,88855,North East,Higher deprivation towns,-0.392386733,18.42338352524358
+Wickford BUASD,33486,East of England,Lower deprivation towns,0.665368332,4.714640198511166
+Broomhall/Windlesham/Virginia Water BUASD,23580,South East,Lower deprivation towns,5.584874286,NA
+Eastleigh BUASD,78716,South East,Lower deprivation towns,2.073259572,6.461864406779661
+Birmingham BUASD,1085810,West Midlands,Cities,-1.443434467,12.679856115107912
+Kettering BUASD,56226,East Midlands,Higher deprivation towns,-1.847393715,9.615384615384617
+Lymington BUASD,15218,South East,Lower deprivation towns,0.032916434,NA
+Royston BUASD,10069,Yorkshire and The Humber,Higher deprivation towns,-3.411047708,11.570247933884298
+Diss BUASD,9829,East of England,Mid deprivation towns,-3.205253713,NA
+Longton BUASD,8800,North West,Lower deprivation towns,5.155674387,NA
+Newcastle upon Tyne BUASD,268064,North East,Cities,-1.908467207,13.191659983961507
+Esher BUASD,50904,South East,Lower deprivation towns,5.195171433,NA
+Ryton BUASD,15999,North East,Mid deprivation towns,0.916562557,10.650887573964498
+Rochdale BUASD,107926,North West,Higher deprivation towns,-0.395418516,10.907811400422238
+St Albans BUASD,82146,East of England,Lower deprivation towns,5.8087493,3.489771359807461
+North Walney BUASD,9952,North West,Higher deprivation towns,-0.461972757,12.5
+Kiveton Park BUASD,7069,Yorkshire and The Humber,Mid deprivation towns,1.890288135,NA
+Catshill BUASD,10416,West Midlands,Lower deprivation towns,1.703262001,9.01639344262295
+Canterbury BUASD,54880,South East,Mid deprivation towns,-2.625444358,11.989100817438691
+Normanton BUASD,21317,Yorkshire and The Humber,Higher deprivation towns,-0.145896397,7.421875
+Folkestone BUASD,51337,South East,Higher deprivation towns,-1.835384484,9.090909090909092
+St Neots BUASD,30252,East of England,Lower deprivation towns,-3.251116087,5.540897097625329
+Fareham BUASD,42210,South East,Lower deprivation towns,0.038020156,5.239179954441914
+Sunderland BUASD,174286,North East,Higher deprivation towns,-1.693627963,14.48382126348228
+Ripley BUASD,19315,East Midlands,Higher deprivation towns,-1.391006749,11.650485436893204
+Farnham BUASD,25604,South East,Lower deprivation towns,6.202010294,NA
+Bolton BUASD,194189,North West,Higher deprivation towns,-0.315461471,12.001752080595708
+Guildford BUASD,77057,South East,Lower deprivation towns,1.949313365,6.138933764135703
+Northampton BUASD,215173,East Midlands,Higher deprivation towns,-2.333315523,7.361702127659575
+Heanor BUASD,25644,East Midlands,Higher deprivation towns,-3.37095575,8.02675585284281
+Burntwood BUASD,28553,West Midlands,Mid deprivation towns,0.420375669,6.140350877192982
+Abingdon BUASD,38262,South East,Lower deprivation towns,-1.278183798,3.1578947368421053
+Worsley BUASD,9108,North West,Lower deprivation towns,5.694851601,NA
+High Wycombe BUASD,120256,South East,Lower deprivation towns,2.101644111,3.5384615384615383
+Bradford BUASD,349561,Yorkshire and The Humber,Cities,-3.503505917,11.958811139714488
+East Grinstead BUASD,29084,South East,Lower deprivation towns,1.179483614,3.4129692832764507
+Brownhills BUASD,20373,West Midlands,Higher deprivation towns,-0.044013779,8.73362445414847
+Atherstone BUASD,10573,West Midlands,Higher deprivation towns,-4.063383026,NA
+Burton upon Trent BUASD,72299,West Midlands,Higher deprivation towns,-1.695798977,7.551766138855055
+Bamber Bridge BUASD,67497,North West,Lower deprivation towns,3.419350142,6.019151846785226
+Wilmslow BUASD,35945,North West,Lower deprivation towns,4.482291861,4.823151125401929
+Gloucester BUASD,136362,South West,Higher deprivation towns,-1.907327933,7.206068268015171
+Otley BUASD,14215,Yorkshire and The Humber,Lower deprivation towns,0.795862772,NA
+Bushey BUASD,25328,East of England,Lower deprivation towns,5.864021688,NA
+Gateshead BUASD,120046,North East,Higher deprivation towns,-1.21953945,13.018242122719734
+Newport Pagnell BUASD,15118,South East,Lower deprivation towns,2.607961881,NA
+Ilkeston BUASD,38640,East Midlands,Higher deprivation towns,-4.196862089,14.354066985645932
+Newton-le-Willows BUASD,22114,North West,Higher deprivation towns,-1.678143653,9.523809523809524
+Tilbury BUASD,12450,East of England,Higher deprivation towns,-7.104299744,13.218390804597702
+Droitwich BUASD,23504,West Midlands,Mid deprivation towns,-2.864618092,9.92063492063492
+Mountsorrel BUASD,12120,East Midlands,Lower deprivation towns,-3.105063727,NA
+Chesterfield BUASD,88483,East Midlands,Higher deprivation towns,-0.113529264,9.110169491525424
+Billericay BUASD,34274,East of England,Lower deprivation towns,5.539858751,2.6506024096385543
+Bideford BUASD,18029,South West,Higher deprivation towns,-6.037043767,10.762331838565023
+Wendover BUASD,7131,South East,Lower deprivation towns,8.687991592,NA
+Jarrow BUASD,43431,North East,Higher deprivation towns,-0.807955472,14.232209737827716
+Southampton BUASD,253651,South East,Cities,-2.868483853,10.241218789674145
+Tamworth BUASD,73924,West Midlands,Higher deprivation towns,-2.362019947,7.578947368421053
+Newbury BUASD,38762,South East,Lower deprivation towns,-0.337151444,5.811138014527845
+Hale (Trafford) BUASD,16624,North West,Lower deprivation towns,9.301347301,NA
+Weymouth BUASD,54539,South West,Higher deprivation towns,-1.399291373,6.782608695652175
+Bracknell BUASD,77256,South East,Lower deprivation towns,-1.167026008,5.095541401273886
+Cinderford BUASD,10508,South West,Higher deprivation towns,-5.403816227,9.923664122137405
+Cookham BUASD,5108,South East,Lower deprivation towns,3.797861349,NA
+Ferndown BUASD,26559,South West,Lower deprivation towns,-0.014243504,5.607476635514018
+Cannock BUASD,67768,West Midlands,Higher deprivation towns,-1.551539762,8.101851851851851
+Royal Tunbridge Wells BUASD,57772,South East,Lower deprivation towns,3.708287406,4.038461538461538
+Preston BUASD,97886,North West,Higher deprivation towns,-2.178895241,10.648148148148149
+Oldham BUASD,96555,North West,Higher deprivation towns,-4.05106543,13.275613275613276
+Mildenhall BUASD,13388,East of England,Mid deprivation towns,-4.836415788,NA
+Stoke-on-Trent BUASD,270726,West Midlands,Cities,-3.005746412,9.523809523809524
+Accrington BUASD,35456,North West,Higher deprivation towns,-1.843068303,9.586056644880172
+Bedford BUASD,87590,East of England,Higher deprivation towns,-1.499777889,6.236323851203501
+Peterlee BUASD,27871,North East,Higher deprivation towns,-2.833260415,18.02469135802469
+Exeter BUASD,113507,South West,Mid deprivation towns,-1.845804349,6.88622754491018
+Bristol BUASD,535907,South West,Cities,-3.311315437,8.491686460807601
+Corby BUASD,54927,East Midlands,Higher deprivation towns,-5.304883474,12.028985507246375
+Reigate BUASD,22123,South East,Lower deprivation towns,2.956932707,NA
+Stourport-on-Severn BUASD,20112,West Midlands,Higher deprivation towns,-0.607509386,10.37735849056604
+Prudhoe BUASD,10853,North East,Mid deprivation towns,-2.380949821,NA
+Hastings BUASD,91053,South East,Higher deprivation towns,-4.524893803,13.030888030888027
+Stockport BUASD,105878,North West,Higher deprivation towns,0.87953903,10.356832027850304
+Rugby BUASD,70628,West Midlands,Mid deprivation towns,-0.019761952,7.026348808030113
+Marlow BUASD,14823,South East,Lower deprivation towns,6.194485959,6.493506493506493
+Aylesbury BUASD,71977,South East,Mid deprivation towns,-1.69002387,7.142857142857142
+Solihull BUASD,123187,West Midlands,Lower deprivation towns,6.08208782,3.3356024506466984
+Ipswich BUASD,144957,East of England,Higher deprivation towns,-2.933200988,9.32149651236525
+Liversedge BUASD,17697,Yorkshire and The Humber,Higher deprivation towns,2.260009885,9.134615384615383
+Penistone BUASD,9817,Yorkshire and The Humber,Lower deprivation towns,3.867275387,NA
+Basildon BUASD,107123,East of England,Higher deprivation towns,-5.41965103,11.0254433307633
+Worksop BUASD,41820,East Midlands,Higher deprivation towns,1.754186025,8.961303462321792
+Chertsey BUASD,13753,South East,Lower deprivation towns,1.42390104,8.51063829787234
+Chelmsford BUASD,110507,East of England,Lower deprivation towns,0.94857465,6.219709208400646
+Standish BUASD,13701,North West,Lower deprivation towns,8.401826191,NA
+Fazeley BUASD,7637,West Midlands,Mid deprivation towns,-4.430811734,NA
+Andover BUASD,41761,South East,Mid deprivation towns,-2.772802761,6.753812636165578
+Watton BUASD,8417,East of England,Mid deprivation towns,-7.275898747,NA
+Warlingham BUASD,9092,South East,Lower deprivation towns,2.051194602,NA
+Wingerworth BUASD,6049,East Midlands,Lower deprivation towns,4.063559848,NA
+Woking BUASD,105367,South East,Lower deprivation towns,3.941592707,2.8712871287128716
+Chesham BUASD,22356,South East,Mid deprivation towns,0.812772287,6.538461538461539
+Woodley BUASD,35470,South East,Lower deprivation towns,2.864376637,3.4562211981566824
+Yeadon BUASD,19668,Yorkshire and The Humber,Lower deprivation towns,1.810213402,7.731958762886598
+Clay Cross BUASD,12925,East Midlands,Higher deprivation towns,-3.075401189,10.37037037037037
+Runcorn BUASD,61789,North West,Higher deprivation towns,-0.192779991,12.834224598930485
+Wellingborough BUASD,49128,East Midlands,Higher deprivation towns,-3.134681857,9.24092409240924
+Telford BUASD,142723,West Midlands,Higher deprivation towns,-2.608572746,11.70271769273433
+Ditton BUASD,25982,South East,Mid deprivation towns,1.184695615,7.28476821192053
+Egham BUASD,25996,South East,Lower deprivation towns,0.707683043,4.830917874396135
+Portsmouth BUASD,238137,South East,Cities,-4.509175593,9.260060579835567
+Wolverhampton BUASD,210319,West Midlands,Higher deprivation towns,-0.921340992,12.427745664739884
+Staines BUASD,25736,South East,Lower deprivation towns,0.939761686,NA
+Torquay BUASD,49094,South West,Higher deprivation towns,-4.248263303,9.719222462203025
+Nottingham BUASD,289301,East Midlands,Cities,-4.513907919,15.686968838526912
+Paignton BUASD,64410,South West,Higher deprivation towns,-1.370497847,8.157894736842106
+Grimsby BUASD,88243,Yorkshire and The Humber,Higher deprivation towns,-4.230230033,19.94328922495274
+West Hallam BUASD,6016,East Midlands,Lower deprivation towns,4.226679705,NA
+Weston-Super-Mare BUASD,83641,South West,Higher deprivation towns,-1.649922599,9.381663113006397
+Beeston (Broxtowe) BUASD,51479,East Midlands,Lower deprivation towns,1.863838366,6.550218340611353
+Warwick BUASD,31345,West Midlands,Lower deprivation towns,1.848750453,6.488549618320611
+Filton BUASD,59495,South West,Lower deprivation towns,0.105832143,5.132192846034215
+Stafford BUASD,68472,West Midlands,Mid deprivation towns,0.269932299,6.17816091954023
+West Kingsdown BUASD,5484,South East,Lower deprivation towns,-1.622388812,NA
+Rotherham BUASD,109691,Yorkshire and The Humber,Higher deprivation towns,-2.558529299,12.344777209642077
+Leyland BUASD,38805,North West,Higher deprivation towns,-0.307191378,11.15702479338843
+Leeds BUASD,474632,Yorkshire and The Humber,Cities,-3.030755738,13.46314907872697
+Mansfield BUASD,77551,East Midlands,Higher deprivation towns,-2.974283833,13.789237668161435
+Kingston upon Hull BUASD,284321,Yorkshire and The Humber,Cities,-3.775531531,14.741035856573706
+Swadlincote BUASD,45000,East Midlands,Higher deprivation towns,-3.510452167,10.946196660482377
+Northwich BUASD,45471,North West,Mid deprivation towns,1.845068827,8.630393996247655
+Iver Heath BUASD,8065,South East,Lower deprivation towns,-1.80935831,NA
+Rainford BUASD,5831,North West,Lower deprivation towns,3.478766662,NA
+Stroud BUASD,32670,South West,Mid deprivation towns,1.887360609,9.883720930232558
+Lancaster BUASD,48085,North West,Higher deprivation towns,-0.646814835,12.145748987854253
+Harlow BUASD,82059,East of England,Higher deprivation towns,-2.725442527,5.919003115264798
+Wokingham BUASD,42728,South East,Lower deprivation towns,5.85280724,2.73972602739726
+Kidsgrove BUASD,26293,West Midlands,Mid deprivation towns,-2.735907801,11.501597444089455
+Littleborough BUASD,12370,North West,Lower deprivation towns,5.5782259850000004,NA
+Camberley BUASD,38038,South East,Lower deprivation towns,1.590340639,4.497354497354497
+Slough BUASD,155298,South East,Higher deprivation towns,1.065438284,4.238197424892705
+Tynemouth BUASD,67519,North East,Higher deprivation towns,-0.422807617,12.283236994219653
+Alfreton BUASD,22763,East Midlands,Higher deprivation towns,-3.910234467,11.48148148148148
+Colchester BUASD,119441,East of England,Mid deprivation towns,-0.347520473,7.907348242811501
+Derby BUASD,255394,East Midlands,Cities,-2.106119887,7.130494980962271
+Wimborne Minster BUASD,15174,South West,Lower deprivation towns,2.520143131,NA
+Kingsnorth (Ashford) BUASD,6563,South East,Lower deprivation towns,0.535576067,NA
+Ryde BUASD,23999,South East,Higher deprivation towns,-6.719105219,11.583011583011585
+Cramlington BUASD,27683,North East,Mid deprivation towns,-0.572707818,12.37785016286645
+Grantham BUASD,41998,East Midlands,Higher deprivation towns,-0.730646543,9.177820267686425
+Wombwell BUASD,23355,Yorkshire and The Humber,Higher deprivation towns,-2.719940087,10.652920962199312
+Chester-le-Street BUASD,37164,North East,Higher deprivation towns,1.662574397,8.764044943820224
+Kesgrave BUASD,18975,East of England,Lower deprivation towns,4.536116811,NA
+Epsom BUASD,31474,South East,Lower deprivation towns,3.382407391,3.64963503649635
+Minster (Swale) BUASD,18760,South East,Higher deprivation towns,-4.122655533,11.71875
+Horsforth BUASD,18895,Yorkshire and The Humber,Lower deprivation towns,6.131528057,NA
+Hoylake BUASD,10909,North West,Lower deprivation towns,8.608192498,NA
+Coventry BUASD,325949,West Midlands,Cities,-1.69358297,8.883455582722087
+Rayleigh BUASD,95580,East of England,Lower deprivation towns,1.641847199,4.170286707211121
+Wigan BUASD,103608,North West,Higher deprivation towns,0.54457022,11.5736885928393
+Partington BUASD,7912,North West,Higher deprivation towns,-4.786682178,8.771929824561402
+Dudley (North Tyneside) BUASD,5497,North East,Higher deprivation towns,-8.709049788,NA
+Middlesbrough BUASD,174700,North East,Higher deprivation towns,-2.322986391,18.672985781990523
+Waltham Abbey BUASD,18743,East of England,Higher deprivation towns,-0.181586177,6.25
+Consett BUASD,24828,North East,Higher deprivation towns,0.495638768,9.55631399317406
+Whitworth BUASD,7500,North West,Higher deprivation towns,1.415224113,NA
+Peterborough BUASD,161707,East of England,Higher deprivation towns,-2.221002178,9.105431309904152
+Carlisle BUASD,75306,North West,Higher deprivation towns,-4.322467679,11.583011583011585
+Royal Leamington Spa BUASD,55733,West Midlands,Lower deprivation towns,0.79431068,5.707196029776675
+Poulton-le-Fylde BUASD,17430,North West,Lower deprivation towns,5.236373241,7.361963190184049
+Stanley BUASD,20995,North East,Higher deprivation towns,-5.232152906,14.17910447761194
+Bexhill BUASD,42369,South East,Higher deprivation towns,-1.450462853,8.530805687203792
+Plymouth BUASD,234982,South West,Cities,-2.138374166,11.44726083401472
+Leicester BUASD,443760,East Midlands,Cities,-1.598266913,8.646688299293759
+Leek BUASD,19624,West Midlands,Higher deprivation towns,-2.499399669,6.637168141592921
+Wallsend BUASD,43826,North East,Higher deprivation towns,-1.889132946,14.198782961460449
+Huddersfield BUASD,162949,Yorkshire and The Humber,Higher deprivation towns,0.625556623,9.117475160724725
+Hunstanton BUASD,8704,East of England,Higher deprivation towns,-5.607341942,NA
+Cambridge BUASD,145818,East of England,Lower deprivation towns,1.211654963,5.7411273486430066
+Colne BUASD,18806,North West,Higher deprivation towns,-2.026479746,9.1324200913242
+Weybridge BUASD,29837,South East,Lower deprivation towns,6.106349368,NA
+Glossop BUASD,33020,East Midlands,Mid deprivation towns,1.695496391,10.21505376344086
+Hoddesdon BUASD,42253,East of England,Mid deprivation towns,0.670209623,3.571428571428571
+Staveley BUASD,15313,East Midlands,Higher deprivation towns,-0.814707483,10.88082901554404
+Bury BUASD,77211,North West,Higher deprivation towns,1.270060363,8.568207440811724
+Redruth BUASD,19902,South West,Higher deprivation towns,-2.006579212,6.986899563318777
+Amersham BUASD,23086,South East,Lower deprivation towns,8.137930036,NA
+Swanscombe BUASD,19835,South East,Mid deprivation towns,-0.911150371,6.593406593406594
+Wetherby BUASD,11242,Yorkshire and The Humber,Lower deprivation towns,5.360138644,NA
+Locks Heath/Warsash/Whiteley BUASD,43359,South East,Lower deprivation towns,4.140431579,4.40251572327044
+Nailsworth BUASD,7728,South West,Lower deprivation towns,7.06093098,NA
+Leiston BUASD,5643,East of England,Higher deprivation towns,-7.336425751,NA
+Skelmersdale BUASD,34455,North West,Higher deprivation towns,-2.294227405,14.528301886792452
+Washington BUASD,67085,North East,Higher deprivation towns,-0.237026997,13.88888888888889
+Ellesmere Port BUASD,61090,North West,Higher deprivation towns,-3.027107029,10.476190476190476
+Rickmansworth BUASD,23973,East of England,Lower deprivation towns,5.606123897,NA
+Carnforth BUASD,6115,North West,Mid deprivation towns,-1.216291898,NA
+Newcastle-under-Lyme BUASD,75082,West Midlands,Higher deprivation towns,1.087110993,9.004739336492891
+Swindon BUASD,182441,South West,Mid deprivation towns,-2.140764342,7.1258907363420425
+Walsall BUASD,67594,West Midlands,Higher deprivation towns,-0.934913142,11.65644171779141
+Oxford BUASD,159994,South East,Mid deprivation towns,-2.146896435,5.985915492957746
+Shoreham-by-Sea BUASD,48487,South East,Mid deprivation towns,-3.907574596,7.5
+Rochester BUASD,62982,South East,Higher deprivation towns,-1.750225905,7.851239669421488
+Hoyland BUASD,17710,Yorkshire and The Humber,Higher deprivation towns,-4.396909731,18.48341232227488
+Hemel Hempstead BUASD,94932,East of England,Mid deprivation towns,-0.892601732,7.1177504393673114
+Brierfield BUASD,9559,North West,Higher deprivation towns,-0.301092555,7.936507936507936
+Lincoln BUASD,100160,East Midlands,Higher deprivation towns,-3.678350423,13.278008298755188
+Worcester BUASD,100153,West Midlands,Mid deprivation towns,-0.246790008,8.084696823869104
+Stowmarket BUASD,19280,East of England,Mid deprivation towns,-2.008851089,7.659574468085106
+Grays BUASD,66843,East of England,Mid deprivation towns,-0.801266586,6.501182033096926
+Batley BUASD,80485,Yorkshire and The Humber,Higher deprivation towns,0.39812194,9.820485744456176
+Rochford BUASD,17739,East of England,Mid deprivation towns,-3.653296949,5.172413793103448
+Margate BUASD,61223,South East,Higher deprivation towns,-3.594334095,13.136729222520108
+Haslemere BUASD,13122,South East,Lower deprivation towns,4.813053992,NA
+Cranleigh BUASD,9905,South East,Lower deprivation towns,1.163167949,NA
+Bicester BUASD,32642,South East,Lower deprivation towns,-0.88303807,3.1578947368421053
+Bridgnorth BUASD,12315,West Midlands,Lower deprivation towns,0.671596851,NA
+Wareham BUASD,5496,South West,Mid deprivation towns,-1.30671782,NA
+South Normanton BUASD,15388,East Midlands,Higher deprivation towns,-3.688235156,NA
+Liverpool BUASD,552267,North West,Cities,-2.214736577,13.985896574882473
+Merley BUASD,6005,South West,Lower deprivation towns,5.203911561,NA
+Blackpool BUASD,147663,North West,Higher deprivation towns,-2.089855549,11.63719338277239
+Wakefield BUASD,99251,Yorkshire and The Humber,Higher deprivation towns,0.435286387,8.584070796460178
+Bude BUASD,5091,South West,Higher deprivation towns,-5.445295263,NA
+Gosport BUASD,71529,South East,Mid deprivation towns,-4.220376739,8.650065530799477
+Seaton BUASD,5022,North West,Lower deprivation towns,4.453122958,NA
+Thornaby-on-Tees BUASD,24741,North East,Higher deprivation towns,-2.41757272,20.84942084942085
+Adwick le Street BUASD,19222,Yorkshire and The Humber,Higher deprivation towns,-4.095912481,16.731517509727624
+Houghton-le-Spring BUASD,13863,North East,Higher deprivation towns,-3.782993531,18.97810218978102
+Herne Bay BUASD,38385,South East,Higher deprivation towns,-2.169529438,8.528784648187633
+Tadley BUASD,15836,South East,Lower deprivation towns,-0.734586109,NA
+Leatherhead BUASD,32522,South East,Lower deprivation towns,3.357512952,5.900621118012422
+West Bromwich BUASD,72945,West Midlands,Higher deprivation towns,-3.484130585,15.306122448979592
+Whitley Bay BUASD,36702,North East,Lower deprivation towns,5.319393171,6.2953995157385
+Horley BUASD,22693,South East,Lower deprivation towns,-2.359151642,5.405405405405405
+Newark-on-Trent BUASD,37084,East Midlands,Higher deprivation towns,-4.984540922,15.32258064516129
+Pershore BUASD,7125,West Midlands,Mid deprivation towns,-1.510543843,NA
+St Helens BUASD,102885,North West,Higher deprivation towns,-1.920184466,15.12
+Stockton-on-Tees BUASD,82729,North East,Higher deprivation towns,-2.501696064,17.281348788198102
+Hitchin BUASD,34266,East of England,Lower deprivation towns,4.452360301,4.774535809018567
+Burley in Wharfedale BUASD,7041,Yorkshire and The Humber,Lower deprivation towns,9.860231636,NA
+Reading BUASD,218705,South East,Mid deprivation towns,0.399812927,5.21622826571556
+Hedge End BUASD,25117,South East,Lower deprivation towns,2.486984227,5.537459283387622
+Westergate BUASD,9783,South East,Lower deprivation towns,1.564259381,NA
+Loughton BUASD,31106,East of England,Mid deprivation towns,1.266553731,4.481792717086835
+Milton Keynes BUASD,171750,South East,Mid deprivation towns,0.341824042,6.172839506172839
+Redditch BUASD,81919,West Midlands,Higher deprivation towns,-0.29414288,8.846918489065606
+Chester BUASD,86011,North West,Higher deprivation towns,-0.81093526,7.983761840324763
+Inner London BUAs,NA,London,NA,0.067591372,7.182298010556232
+Outer london BUAs,NA,London,NA,1.262410275,5.520963055209631
+Other Small BUAs,NA,NA,NA,1.221876794,5.4985521316304835
+Not BUA,NA,NA,NA,1.802089417,4.741557546519641
